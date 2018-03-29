@@ -1,0 +1,719 @@
+brand,category,confidence,user
+Boston Red Sox,Sports League,100,79
+Domaine Chandon California,Alcoholic Beverages,98,79
+Boston Red Sox,Sports League,96,79
+Dunkin' Donuts,Coffee,100,79
+Toronto Blue Jays,Sports League,100,12
+New England Patriots,Sports League,100,98
+Warner Bros.,Movies,100,98
+NBC International,Media (communication),100,98
+Ford,Automobiles,100,98
+Northeastern University,Education,100,98
+Northeastern University,Education,98,98
+Northeastern University,Education,99,59
+Northeastern University,Education,93,59
+Northeastern University,Education,100,59
+Northeastern University,Education,100,59
+Nike,Fitness Apparel,100,59
+Adidas,Fitness Apparel,100,59
+Pepsi,Soda,100,98
+Coca Cola,Soda,92,59
+Nike,Fitness Apparel,100,59
+Northeastern University,Education,100,59
+Adidas,Fitness Apparel,100,59
+Northeastern University,Education,100,59
+Nike,Fitness Apparel,100,59
+Nike,Fitness Apparel,100,59
+Northeastern University,Education,100,59
+Louis Vuitton,Luxury Goods,100,59
+LG,Consumer Electronics,100,96
+Kia,Automobiles,91,96
+Alfa Romeo,Automobiles,100,96
+Geico,Financial Services,100,96
+Genesee,Alcoholic Beverages,100,96
+Genesee,Alcoholic Beverages,97,96
+Xfinity,Media (communication),100,96
+Everlast Apparel,Fitness Apparel,95,96
+Dunkin' Donuts,Coffee,100,96
+Popeyes Louisiana Kitchen,Fast Food,97,96
+Coleman,Sports and Outdoors,97,96
+Twitter,Social Network,83,96
+Subaru,Automobiles,100,96
+New Belgium,Alcoholic Beverages,100,96
+Bud Light,Alcoholic Beverages,99,96
+Bud Light,Alcoholic Beverages,98,96
+Bud Light,Alcoholic Beverages,96,96
+The North Face,Sports and Outdoors,100,83
+The North Face,Sports and Outdoors,100,83
+Ford,Automobiles,95,83
+The North Face,Sports and Outdoors,83,83
+Starbucks,Coffee,100,83
+The North Face,Sports and Outdoors,97,83
+The North Face,Sports and Outdoors,100,83
+The North Face,Sports and Outdoors,100,83
+The North Face,Sports and Outdoors,100,83
+Hubspot,Software,82,11
+Russell Stover,Candy,100,83
+Dunkin' Donuts,Coffee,99,11
+Bank of America,Financial Services,90,11
+Ford,Automobiles,86,11
+National Car Rental,Car Rentals,98,11
+John Hancock,Financial Services,94,11
+Hubspot,Software,100,11
+Bank of America,Financial Services,90,11
+New England Patriots,Sports League,100,58
+Canon,Consumer Electronics,100,58
+Canon,Consumer Electronics,100,58
+New York Yankees,Sports League,96,8
+Delta Airlines,Air Travel,100,8
+Captain America,Superhero,100,8
+Captain America,Superhero,100,8
+Dunkin' Donuts,Coffee,100,85
+Ford,Automobiles,86,85
+Adidas,Fitness Apparel,100,60
+Seattle Sounders FC,Sports League,99,60
+Adidas,Fitness Apparel,100,60
+Seattle Sounders FC,Sports League,98,60
+Adidas,Fitness Apparel,100,60
+Seattle Sounders FC,Sports League,100,60
+Nikon,Consumer Electronics,100,60
+Garmin,Consumer Electronics,100,74
+Seattle Seahawks,Sports League,100,60
+Garmin,Consumer Electronics,100,74
+Garmin,Consumer Electronics,100,74
+Garmin,Consumer Electronics,99,74
+NFL,Sports League,100,60
+Seattle Seahawks,Sports League,81,60
+Google,Technology,100,74
+Garmin,Consumer Electronics,100,74
+New Balance,Fitness Apparel,100,74
+New Balance,Fitness Apparel,91,74
+Garmin,Consumer Electronics,100,74
+Garmin,Consumer Electronics,100,74
+Garmin,Consumer Electronics,100,74
+New England Patriots,Sports League,90,74
+Puma,Fitness Apparel,100,74
+Garmin,Consumer Electronics,100,74
+Bank of America,Financial Services,100,111
+Amazon,E-commerce,100,2
+Heineken,Alcoholic Beverages,100,111
+Heineken,Alcoholic Beverages,100,111
+Heineken,Alcoholic Beverages,100,111
+Cincinnati Reds,Sports League,100,2
+Hanes,Clothing,100,2
+Northeastern University,Education,86,62
+Apple,Consumer Electronics,100,62
+Taco Bell,Fast Food,100,62
+Pepsi,Soda,100,62
+Pepsi,Soda,100,62
+Pepsi,Soda,100,62
+Kashi,Snack Food,98,62
+Dunkin' Donuts,Coffee,100,62
+Naked Juice,Juice,99,62
+Sour Patch Kids,Candy,99,62
+Starbucks,Coffee,100,62
+Nike,Fitness Apparel,99,110
+Bose,Consumer Electronics,100,110
+Nike,Fitness Apparel,100,110
+Calvin Klein,Clothing,100,110
+Calvin Klein,Clothing,93,110
+Starbucks,Coffee,96,110
+Casio,Luxury Watches,100,81
+New York Yankees,Sports League,100,81
+Delta Airlines,Air Travel,100,81
+Olympics,Live Events,100,81
+Olympics,Live Events,100,81
+Verizon,Telecommunication,100,81
+Kinder,Candy,100,81
+Samuel Adams,Alcoholic Beverages,95,81
+Nike,Fitness Apparel,100,4
+Nike,Fitness Apparel,100,4
+Nike,Fitness Apparel,100,4
+Nike,Fitness Apparel,100,4
+Nike,Fitness Apparel,100,4
+Northeastern University,Education,100,4
+Nike,Fitness Apparel,100,4
+Nivea,Personal Care,100,4
+Nike,Fitness Apparel,100,4
+Ford,Automobiles,100,17
+The North Face,Sports and Outdoors,100,17
+Panera Bread,Fast Food,100,17
+Toshiba,Consumer Electronics,100,17
+Pringles,Snack Food,80,93
+Nikon,Consumer Electronics,100,93
+Nikon,Consumer Electronics,100,93
+Nikon,Consumer Electronics,100,93
+Montreal Canadiens,Sports League,95,52
+CCM Hockey,Sports and Outdoors,100,52
+Montreal Canadiens,Sports League,96,52
+Nike,Fitness Apparel,100,52
+Northeastern University,Education,94,52
+Montreal Canadiens,Sports League,100,52
+Montreal Canadiens,Sports League,81,52
+Reebok,Fitness Apparel,100,52
+Montreal Canadiens,Sports League,99,52
+Northeastern University,Education,100,45
+Northeastern University,Education,95,52
+Nike,Fitness Apparel,100,45
+Geico,Financial Services,100,45
+Ford,Automobiles,100,45
+NCAA,Sports League,100,45
+NCAA,Sports League,100,45
+New Balance,Fitness Apparel,92,45
+Bauer Hockey,Sports and Outdoors,83,45
+The North Face,Sports and Outdoors,100,76
+The North Face,Sports and Outdoors,100,76
+In N Out Burger,Fast Food,100,68
+Panasonic,Consumer Electronics,98,68
+Paulaner,Alcoholic Beverages,100,68
+Northeastern University,Education,100,84
+Northeastern University,Education,84,84
+LG,Consumer Electronics,100,84
+Nike,Fitness Apparel,100,84
+Nike,Fitness Apparel,97,84
+Under Armour,Fitness Apparel,100,84
+Under Armour,Fitness Apparel,100,84
+Instagram,Social Network,100,84
+Lexus,Automobiles,100,84
+Adidas,Fitness Apparel,100,84
+Boston Red Sox,Sports League,97,84
+Nike,Fitness Apparel,100,84
+Nike,Fitness Apparel,100,84
+New Balance,Fitness Apparel,100,84
+New Balance,Fitness Apparel,100,84
+New Balance,Fitness Apparel,100,84
+New Balance,Fitness Apparel,100,84
+New Balance,Fitness Apparel,100,84
+New Balance,Fitness Apparel,100,84
+New Balance,Fitness Apparel,100,84
+New Balance,Fitness Apparel,100,84
+New Balance,Fitness Apparel,100,84
+New Balance,Fitness Apparel,100,84
+New Balance,Fitness Apparel,100,84
+Captain America,Superhero,100,30
+WeWork,Professional Services,100,30
+Jack Daniel's,Alcoholic Beverages,100,30
+Twitter,Social Network,100,30
+Magic Hat,Alcoholic Beverages,100,37
+New York Jets,Sports League,100,30
+New York Jets,Sports League,100,30
+New York Jets,Sports League,100,30
+Disney,Media (communication),100,37
+New England Patriots,Sports League,99,37
+Fanta,Soda,100,37
+Disney,Media (communication),100,37
+Disney,Media (communication),99,37
+Northeastern University,Education,100,39
+Northeastern University,Education,100,39
+Coldstone Creamery,Fast Food,100,37
+Levis,Clothing,85,88
+Ford,Automobiles,89,88
+Verizon,Telecommunication,100,88
+Ford,Automobiles,100,88
+Callaway,Sports and Outdoors,100,88
+Dunkin' Donuts,Coffee,100,88
+Ford,Automobiles,100,88
+Narragansett Brewing,Alcoholic Beverages,100,88
+Superman,Superhero,100,57
+WWE Entertainment,Sports League,100,57
+Facebook,Social Network,100,57
+Scott Toilet Paper,Housekeeping,100,57
+Scott Toilet Paper,Housekeeping,100,57
+Scott Toilet Paper,Housekeeping,100,57
+Scott Toilet Paper,Housekeeping,84,57
+Ben & Jerry's,Dairy Product,99,71
+Sephora,Luxury Goods,100,71
+Pillsbury,Cooking and Baking,100,57
+Starbucks,Coffee,100,71
+NARS,Cosmetics,100,71
+Omega,Luxury Watches,92,90
+Kia,Automobiles,81,90
+The North Face,Sports and Outdoors,100,90
+Delta Airlines,Air Travel,82,90
+Honda,Automobiles,96,90
+Snickers,Candy,100,22
+Starbucks,Coffee,100,22
+Harpoon Brewery,Alcoholic Beverages,100,82
+Boston Bruins,Sports League,100,82
+Boston Bruins,Sports League,100,82
+Shaws,Supermarket,100,82
+Reese's Peanut Butter Cups,Candy,100,82
+Reese's Peanut Butter Cups,Candy,100,82
+Reese's Peanut Butter Cups,Candy,86,82
+Dole,Food,100,82
+Guinness,Alcoholic Beverages,100,82
+Northeastern University,Education,97,77
+Delta Airlines,Air Travel,100,77
+Ford,Automobiles,100,77
+Honda,Automobiles,100,77
+Nintendo,Video Games,83,77
+Whataburger,Fast Food,86,77
+Boston Bruins,Sports League,100,77
+Boston Bruins,Sports League,100,77
+Boston Bruins,Sports League,100,77
+The North Face,Sports and Outdoors,100,77
+Whataburger,Fast Food,88,77
+Whataburger,Fast Food,83,77
+Chick-fil-A,Fast Food,100,77
+VIZIO TV,Consumer Electronics,100,77
+UFC,Sports League,100,77
+Xfinity,Media (communication),100,77
+Xfinity,Media (communication),100,77
+Krispy Kreme,Bakery,100,77
+Krispy Kreme,Bakery,100,77
+PNC Bank,Financial Services,100,77
+Coca Cola,Soda,100,77
+Boston Bruins,Sports League,99,63
+Keurig,Coffee,95,63
+Apple,Consumer Electronics,100,63
+Chicago Bulls,Sports League,100,26
+Under Armour,Fitness Apparel,100,26
+Nike,Fitness Apparel,100,26
+Buffalo Bills,Sports League,100,26
+Los Angeles Lakers,Sports League,81,26
+Nike,Fitness Apparel,100,26
+Nike,Fitness Apparel,100,26
+Northeastern University,Education,100,50
+Northeastern University,Education,84,26
+Samuel Adams,Alcoholic Beverages,100,50
+Heinz,Condiments,100,50
+Guinness,Alcoholic Beverages,100,50
+Harpoon Brewery,Alcoholic Beverages,100,50
+Coca Cola,Soda,100,50
+Delta Airlines,Air Travel,100,50
+Jameson,Alcoholic Beverages,100,50
+Ray-Ban,Eyewear,100,56
+Northeastern University,Education,99,56
+Ford,Automobiles,100,56
+Northeastern University,Education,98,69
+Moosehead,Alcoholic Beverages,100,56
+Powerade,Sports Drinks,100,56
+Coca Cola,Soda,100,56
+Dunkin' Donuts,Coffee,100,56
+Rolling Rock,Alcoholic Beverages,100,56
+Rolling Rock,Alcoholic Beverages,100,56
+Bank of America,Financial Services,100,56
+John Hancock,Financial Services,95,56
+Shipyard Brewery,Alcoholic Beverages,100,56
+Delta Airlines,Air Travel,100,56
+Coca Cola,Soda,100,56
+New York Yankees,Sports League,100,56
+Bank of America,Financial Services,100,56
+Optum,Technology,100,56
+WB Mason,Stationery,99,56
+Fox Sports Net,Media (communication),100,69
+Fox,News Media,100,69
+Fox,News Media,96,69
+Fox,News Media,88,69
+Reebok,Fitness Apparel,100,56
+Reebok,Fitness Apparel,100,56
+Reebok,Fitness Apparel,100,56
+Reebok,Fitness Apparel,100,56
+Reebok,Fitness Apparel,100,56
+Reebok,Fitness Apparel,100,56
+Reebok,Fitness Apparel,99,56
+Land Rover,Automobiles,98,101
+Swiss Army,Clothing,100,56
+Tito's Vodka,Alcoholic Beverages,100,101
+Polar Beverages,Bottled Water,100,101
+NFL,Sports League,100,101
+Nike,Fitness Apparel,100,7
+DICK'S Sporting Goods,Sports and Outdoors,98,7
+ESPN,Media (communication),100,7
+Canon,Consumer Electronics,100,7
+Northeastern University,Education,99,7
+Majestic Apparel,Fitness Apparel,100,7
+Nutella,Condiments,100,7
+Superman,Superhero,100,3
+Acura,Automobiles,100,3
+The North Face,Sports and Outdoors,100,3
+Gucci,Luxury Goods,98,3
+Dc Comics,Publishing,86,3
+Adidas,Fitness Apparel,100,27
+New York Jets,Sports League,100,3
+New York Jets,Sports League,99,3
+Tampax,Feminine Hygiene,100,27
+Nike,Fitness Apparel,100,27
+Northeastern University,Education,93,27
+Boston Red Sox,Sports League,99,70
+Los Angeles Dodgers,Sports League,95,70
+ZTE,Telecommunication,100,27
+Bud Light,Alcoholic Beverages,86,70
+Arsenal F.C.,Sports League,100,70
+Lululemon,Fitness Apparel,100,70
+Northeastern University,Education,100,70
+Newcastle,Alcoholic Beverages,88,70
+Northeastern University,Education,100,70
+Northeastern University,Education,100,70
+Northeastern University,Education,100,70
+Nike,Fitness Apparel,100,70
+Northeastern University,Education,83,70
+Nike,Fitness Apparel,100,70
+Northeastern University,Education,96,70
+Batman,Superhero,100,106
+Northeastern University,Education,99,106
+Coca Cola,Soda,81,20
+Adidas,Fitness Apparel,100,20
+Under Armour,Fitness Apparel,100,20
+Nike,Fitness Apparel,100,20
+Nike,Fitness Apparel,100,20
+Under Armour,Fitness Apparel,100,20
+Corona,Alcoholic Beverages,100,20
+Ford,Automobiles,100,20
+Adidas,Fitness Apparel,100,20
+Nike,Fitness Apparel,99,20
+Air Jordan,Fitness Apparel,100,20
+Adidas,Fitness Apparel,99,20
+John Hancock,Financial Services,89,20
+The North Face,Sports and Outdoors,95,20
+Adidas,Fitness Apparel,100,20
+Adidas,Fitness Apparel,100,20
+Adidas,Fitness Apparel,100,20
+Bud Light,Alcoholic Beverages,100,10
+Mini,Automobiles,100,10
+NFL,Sports League,100,10
+Tim Hortons,Coffee,100,10
+Fiat,Automobiles,100,10
+Bauer Hockey,Sports and Outdoors,100,32
+Northeastern University,Education,100,32
+Northeastern University,Education,81,32
+Genesee,Alcoholic Beverages,90,32
+Adidas,Fitness Apparel,100,32
+Northeastern University,Education,100,32
+Bank of America,Financial Services,100,78
+Narragansett Brewing,Alcoholic Beverages,93,78
+Adidas,Fitness Apparel,100,40
+Boston Red Sox,Sports League,100,78
+Gillette,Personal Care,100,78
+Gillette,Personal Care,100,78
+Gillette,Personal Care,100,78
+Gillette,Personal Care,99,78
+Gillette,Personal Care,99,78
+Gillette,Personal Care,95,78
+Gillette,Personal Care,94,78
+Gillette,Personal Care,93,78
+Gillette,Personal Care,92,78
+Gillette,Personal Care,92,78
+Coca Cola,Soda,100,78
+Apple,Consumer Electronics,100,40
+Boston Red Sox,Sports League,100,78
+New England Patriots,Sports League,100,78
+Campbell Soup,Food,100,40
+Twitter,Social Network,98,40
+Northeastern University,Education,82,40
+GU Energy,Sports Drinks,99,40
+Adidas,Fitness Apparel,100,24
+Twitter,Social Network,100,40
+Batman,Superhero,98,24
+Budweiser,Alcoholic Beverages,100,24
+The North Face,Sports and Outdoors,100,92
+Northeastern University,Education,100,92
+Hurley,Fitness Apparel,100,92
+Majestic Apparel,Fitness Apparel,100,1
+Seattle Seahawks,Sports League,83,1
+Boston Red Sox,Sports League,100,1
+Starbucks,Coffee,98,1
+Xbox,Consumer Electronics,95,1
+Adidas,Fitness Apparel,100,1
+Seattle Sounders FC,Sports League,91,1
+Pret a Manger,Fast Food,99,1
+Nike,Fitness Apparel,100,1
+PGA Tour,Sports League,90,1
+CNN,News Media,95,94
+Star Wars,Superhero,96,94
+Volkswagen,Automobiles,100,55
+Guinness,Alcoholic Beverages,100,94
+Wahlburger's,Restaurants,100,55
+Samuel Adams,Alcoholic Beverages,100,55
+Blue Moon,Alcoholic Beverages,100,55
+Blue Moon,Alcoholic Beverages,99,55
+Ralph Lauren,Clothing,85,55
+Nikon,Consumer Electronics,100,75
+Mercedes Benz,Automobiles,99,75
+New York Mets,Sports League,100,75
+Bud Light,Alcoholic Beverages,84,6
+Poland Spring,Bottled Water,100,6
+New England Patriots,Sports League,100,6
+Fireball,Alcoholic Beverages,100,6
+Miller Lite,Alcoholic Beverages,100,6
+Infiniti,Automobiles,100,6
+Verizon,Telecommunication,100,6
+New England Patriots,Sports League,100,6
+NFL,Sports League,100,6
+Boston Red Sox,Sports League,97,6
+Disney,Media (communication),100,6
+Adidas,Fitness Apparel,100,6
+AT&T,Telecommunication,100,6
+Verizon,Telecommunication,100,6
+Leinenkugel's,Alcoholic Beverages,100,6
+Coca Cola,Soda,93,6
+Bud Light,Alcoholic Beverages,100,6
+Budweiser,Alcoholic Beverages,81,6
+New York Yankees,Sports League,100,103
+Playstation,Consumer Electronics,100,6
+Nike,Fitness Apparel,100,6
+PGA Tour,Sports League,100,6
+Northeastern University,Education,99,103
+Converse Chuck Taylor,Footwear,94,103
+New York Yankees,Sports League,90,103
+Bank of America,Financial Services,89,103
+Superman,Superhero,100,103
+The North Face,Sports and Outdoors,100,103
+Boston Celtics,Sports League,95,28
+New England Patriots,Sports League,92,28
+Under Armour,Fitness Apparel,83,28
+New England Patriots,Sports League,100,28
+Northeastern University,Education,85,28
+Nike,Fitness Apparel,100,28
+Nutella,Condiments,94,107
+Ralph Lauren,Clothing,100,28
+Gillette,Personal Care,100,28
+The North Face,Sports and Outdoors,99,28
+New York Mets,Sports League,87,107
+Northeastern University,Education,92,107
+New York Mets,Sports League,84,107
+Lincoln,Automobiles,100,107
+Boston Celtics,Sports League,100,109
+Boston Celtics,Sports League,100,109
+Adidas,Fitness Apparel,100,109
+The North Face,Sports and Outdoors,88,109
+Northeastern University,Education,96,109
+Coca Cola,Soda,100,109
+Superman,Superhero,100,109
+Coca Cola,Soda,92,109
+Coca Cola,Soda,100,109
+Olympics,Live Events,98,80
+Colorado Rockies,Sports League,86,80
+Guinness,Alcoholic Beverages,100,80
+NFL,Sports League,100,34
+The North Face,Sports and Outdoors,100,34
+Northeastern University,Education,100,34
+Boston Red Sox,Sports League,90,34
+Adidas,Fitness Apparel,99,34
+Chicago Blackhawks,Sports League,100,34
+Ralph Lauren,Clothing,99,34
+Adidas,Fitness Apparel,100,34
+Detroit Red Wings,Sports League,100,34
+Boston Celtics,Sports League,100,34
+Nike,Fitness Apparel,100,34
+Nike,Fitness Apparel,99,34
+Nike,Fitness Apparel,100,34
+Gatorade,Sports Drinks,100,34
+Northeastern University,Education,99,34
+Northeastern University,Education,88,34
+Nike,Fitness Apparel,100,34
+Nike,Fitness Apparel,100,34
+Nike,Fitness Apparel,100,34
+Ralph Lauren,Clothing,99,34
+Ralph Lauren,Clothing,98,34
+Northeastern University,Education,100,34
+Samuel Adams,Alcoholic Beverages,98,65
+Northeastern University,Education,100,34
+Bose,Consumer Electronics,100,65
+Pittsburgh Steelers,Sports League,100,34
+Bose,Consumer Electronics,100,65
+Bose,Consumer Electronics,100,65
+Bose,Consumer Electronics,100,65
+Bose,Consumer Electronics,100,65
+Bose,Consumer Electronics,99,65
+The Ritz Carlton,Hotel,93,65
+Trader Joe's,Supermarket,94,65
+Nike,Fitness Apparel,100,66
+Adidas,Fitness Apparel,81,66
+Apple,Consumer Electronics,85,66
+Adidas,Fitness Apparel,100,66
+New York Yankees,Sports League,100,47
+Under Armour,Fitness Apparel,97,47
+Legoland,Theme Parks,100,42
+Ford,Automobiles,100,47
+Boston Celtics,Sports League,100,42
+Bulleit,Alcoholic Beverages,99,73
+Coca Cola,Soda,100,42
+Coca Cola,Soda,100,42
+Coca Cola,Soda,100,42
+Bud Light,Alcoholic Beverages,100,73
+Geico,Financial Services,94,73
+Geico,Financial Services,100,73
+Northeastern University,Education,99,53
+Pabst Blue Ribbon,Alcoholic Beverages,99,53
+Genesee,Alcoholic Beverages,100,53
+Ralph Lauren,Clothing,83,53
+Kinder,Candy,100,41
+Buffalo Sabres,Sports League,89,49
+Chevrolet,Automobiles,100,49
+Green & Black's,Candy,93,9
+Facebook,Social Network,97,9
+Kool-Aid,Juice,86,9
+So Delicious,Snack Food,100,9
+So Delicious,Snack Food,100,9
+Dior,Luxury Goods,100,9
+Adidas,Fitness Apparel,100,72
+Adidas,Fitness Apparel,100,19
+In N Out Burger,Fast Food,100,19
+Corona,Alcoholic Beverages,100,19
+Adidas,Fitness Apparel,100,19
+Tottenham Hotspur,Sports League,100,19
+Adidas,Fitness Apparel,100,19
+Adidas,Fitness Apparel,100,19
+Manchester United,Sports League,100,19
+Manchester United,Sports League,97,19
+Manchester United,Sports League,88,19
+Oreo,Snack Food,100,95
+Corona,Alcoholic Beverages,100,95
+Corona,Alcoholic Beverages,100,95
+Corona,Alcoholic Beverages,100,95
+Corona,Alcoholic Beverages,100,95
+Ocean Spray,Juice,86,95
+Intel,Consumer Electronics,100,44
+Jo Malone London,Perfume,100,44
+Glenfiddich,Alcoholic Beverages,100,44
+Glenfiddich,Alcoholic Beverages,100,44
+Yamaha,Automobiles,98,44
+Dior,Luxury Goods,100,44
+M&M's,Candy,97,44
+Tsingtao,Alcoholic Beverages,100,44
+Tsingtao,Alcoholic Beverages,100,44
+Kate Spade,Clothing,99,31
+Gillette,Personal Care,99,31
+Kate Spade,Clothing,100,31
+Kate Spade,Clothing,94,31
+Nissan,Automobiles,100,31
+Nissan,Automobiles,95,31
+Heinz,Condiments,100,31
+Chick-fil-A,Fast Food,98,31
+Kate Spade,Clothing,100,31
+Canon,Consumer Electronics,100,31
+ExxonMobil,Industry,100,97
+Barclays,Financial Services,100,97
+Northeastern University,Education,100,31
+Apple,Consumer Electronics,100,97
+Jack Daniel's Tennessee Honey,Alcoholic Beverages,97,97
+Jack Daniel's,Alcoholic Beverages,100,97
+Guess,Clothing,99,104
+CCM Hockey,Sports and Outdoors,83,104
+Air Jordan,Fitness Apparel,100,104
+Clorox,Housekeeping,100,104
+Hershey's,Candy,100,104
+Yahoo,Software,100,104
+Netflix,Media (communication),94,104
+Under Armour,Fitness Apparel,100,104
+Ardbeg,Luxury Goods,97,48
+Coca Cola,Soda,95,87
+Northeastern University,Education,97,87
+Rolex,Luxury Watches,100,86
+Disneyworld,Theme Parks,83,87
+H&M,Clothing,100,5
+Bud Light,Alcoholic Beverages,100,100
+Coca Cola,Soda,100,100
+Marlboro,Tobacco,100,100
+Marlboro,Tobacco,100,100
+Camel Cigarettes,Tobacco,97,100
+Sony,Consumer Electronics,100,100
+Ben & Jerry's,Dairy Product,100,100
+Coca Cola,Soda,100,100
+Lipton,Tea,100,100
+Neutrogena,Cosmetics,94,64
+Coca Cola,Soda,100,100
+Dasani,Bottled Water,85,100
+Canon,Consumer Electronics,95,64
+Coca Cola,Soda,100,64
+CCM Hockey,Sports and Outdoors,89,64
+Adidas,Fitness Apparel,100,64
+Canon,Consumer Electronics,100,64
+Northeastern University,Education,96,64
+NBC International,Media (communication),100,64
+Ben & Jerry's,Dairy Product,100,15
+Polar Beverages,Bottled Water,99,15
+Under Armour,Fitness Apparel,100,15
+Trader Joe's,Supermarket,100,15
+Coca Cola,Soda,100,15
+Starbucks,Coffee,100,15
+Nike,Fitness Apparel,100,15
+Adidas,Fitness Apparel,100,54
+Johnson & Johnson,Personal Care,100,15
+Samuel Adams,Alcoholic Beverages,100,15
+Audi,Automobiles,100,54
+Audi,Automobiles,100,54
+Six Flags,Theme Parks,98,21
+The North Face,Sports and Outdoors,82,21
+Universal Studios,Movies,99,33
+Chicago Blackhawks,Sports League,81,33
+Samuel Adams,Alcoholic Beverages,100,33
+Chicago Blackhawks,Sports League,99,33
+Surge,Soda,100,33
+Surge,Soda,100,33
+Surge,Soda,98,33
+Surge,Soda,96,33
+Surge,Soda,94,33
+Surge,Soda,93,33
+Snapchat,Social Network,100,23
+Toyota,Automobiles,100,89
+Canadian Mist,Alcoholic Beverages,80,89
+Guinness,Alcoholic Beverages,100,67
+Nike,Fitness Apparel,100,67
+Ralph Lauren,Clothing,100,67
+Columbia,Clothing,86,67
+NCAA,Sports League,100,67
+Nike,Fitness Apparel,100,67
+Nike,Fitness Apparel,100,67
+Northeastern University,Education,94,67
+Northeastern University,Education,83,67
+Ralph Lauren,Clothing,89,18
+Heineken,Alcoholic Beverages,100,18
+Heineken,Alcoholic Beverages,83,18
+Ralph Lauren,Clothing,99,18
+Heineken,Alcoholic Beverages,100,18
+Heineken,Alcoholic Beverages,100,18
+Ghirardelli,Candy,100,16
+Northeastern University,Education,88,46
+Optum,Technology,100,46
+Majestic Apparel,Fitness Apparel,96,46
+Mercedes Benz,Automobiles,99,46
+Northeastern University,Education,98,46
+Northeastern University,Education,89,46
+Smuckers,Condiments,100,46
+Nutella,Condiments,100,46
+New England Patriots,Sports League,84,46
+Citibank,Financial Services,100,46
+Coca Cola,Soda,100,46
+Columbia,Clothing,95,91
+Northeastern University,Education,100,91
+Nike,Fitness Apparel,100,91
+Verizon,Telecommunication,100,91
+Northeastern University,Education,98,91
+Northeastern University,Education,84,91
+Dunkin' Donuts,Coffee,86,91
+Xfinity,Media (communication),99,61
+Northeastern University,Education,100,61
+Northeastern University,Education,100,61
+Northeastern University,Education,100,61
+Bank of America,Financial Services,100,61
+Goodyear,Auto Parts,99,61
+Bank of America,Financial Services,96,61
+Budweiser,Alcoholic Beverages,99,61
+John Hancock,Financial Services,85,61
+Coca Cola,Soda,100,61
+Ford,Automobiles,100,61
+Northeastern University,Education,100,61
+Northeastern University,Education,100,61
+Northeastern University,Education,100,61
+Northeastern University,Education,98,61
+Boston Bruins,Sports League,99,61
+Northeastern University,Education,100,61
+Sprint,Telecommunication,100,61
+Midas,Auto Parts,100,61
+Pedigree Pet food,Pets,100,29
+Honda,Automobiles,94,61
+Twitter,Social Network,100,61
+Boston Red Sox,Sports League,100,29
+Microsoft,Technology,100,29
+Starbucks,Coffee,100,29
+York Peppermint Pattie,Candy,80,29
+Cadbury Crme Egg,Candy,84,29
+Cadbury,Candy,82,29
+Coca Cola,Soda,100,43
+WB Mason,Stationery,100,43
+Northeastern University,Education,100,43
+Northeastern University,Education,100,43
+Coca Cola,Soda,98,43
+Guinness,Alcoholic Beverages,100,105
