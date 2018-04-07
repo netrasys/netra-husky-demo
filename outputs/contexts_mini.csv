@@ -1,1044 +1,1044 @@
 confidence,label,second_level,url,user
-88,glasses,Fashion Accessories,5,2
-80,beauty,Fashion Accessories,5,2
-56,smile,People,5,2
-54,photography,Art,5,2
-52,girl,People,5,2
-50,vision care,Fashion Accessories,5,2
-92,horizon,Sky,99,88
-86,sea,Body of Water,99,88
-81,shore,Body of Water,99,88
-77,morning,Time of Day,99,88
-72,coast,Body of Water,99,88
-66,dawn,Time of Day,99,88
-91,dish,Food,72,10
-88,food,Food,72,10
-65,meal,Food,72,10
-63,breakfast,Food,72,10
-43,produce,Food,72,10
-31,dessert,Food,72,10
-99,snow,Weather,19,41
-99,winter,Seasons,19,41
-98,weather,Weather,19,41
-97,season,Seasons,19,41
-91,tree,Weather,19,41
-79,freezing,Weather,19,41
-62,vehicle,Transportation / Shipping,76,98
-37,transport,Transportation / Shipping,76,98
-26,street,Roads and Bridges,76,98
-18,road,Roads and Bridges,76,98
-11,photograph,Art,76,98
-59,education,Education,187,21
-52,community,People,187,21
-37,youth,People,187,21
-88,audience,Live Events,100,96
-40,crowd,People,100,96
-39,academic conference,Education,100,96
-38,convention,Live Events,100,96
-37,people,People,100,96
-22,auditorium,"Cities, Towns, & Buildings",100,96
+88,glasses,Fashion Accessories,137,2
+80,beauty,Fashion Accessories,137,2
+56,smile,People,137,2
+54,photography,Art,137,2
+52,girl,People,137,2
+50,vision care,Fashion Accessories,137,2
+92,horizon,Sky,48,88
+86,sea,Body of Water,48,88
+81,shore,Body of Water,48,88
+77,morning,Time of Day,48,88
+72,coast,Body of Water,48,88
+66,dawn,Time of Day,48,88
+91,dish,Food,81,10
+88,food,Food,81,10
+65,meal,Food,81,10
+63,breakfast,Food,81,10
+43,produce,Food,81,10
+31,dessert,Food,81,10
+99,snow,Weather,107,41
+99,winter,Seasons,107,41
+98,weather,Weather,107,41
+97,season,Seasons,107,41
+91,tree,Weather,107,41
+79,freezing,Weather,107,41
+62,vehicle,Transportation / Shipping,161,98
+37,transport,Transportation / Shipping,161,98
+26,street,Roads and Bridges,161,98
+18,road,Roads and Bridges,161,98
+11,photograph,Art,161,98
+59,education,Education,130,21
+52,community,People,130,21
+37,youth,People,130,21
+88,audience,Live Events,27,96
+40,crowd,People,27,96
+39,academic conference,Education,27,96
+38,convention,Live Events,27,96
+37,people,People,27,96
+22,auditorium,"Cities, Towns, & Buildings",27,96
 60,poster,Design,0,31
 46,art,Design,0,31
 40,advertising,Advertising,0,31
 35,brand,Retail,0,31
 21,presentation,Education,0,31
 21,design,Design,0,31
-74,mountain range,Terrain,147,85
-74,piste,Terrain,147,85
-67,winter sport,Sports,147,85
-65,snow,Weather,147,85
-64,ski equipment,Sports,147,85
-64,mountain,Terrain,147,85
-33,restaurant,Restaurants,34,65
-30,image,Art,34,65
-19,bar,Restaurants,34,65
-13,photograph,Art,34,65
-11,night,Time of Day,34,65
-61,fashion,Clothing,129,46
-31,person,People,129,46
-23,photo shoot,Art,129,46
-20,people,People,129,46
-19,model,Clothing,129,46
-19,clothing,Clothing,129,46
-99,sky,Sky,85,67
-99,cloud,Sky,85,67
-96,horizon,Sky,85,67
-95,sea,Body of Water,85,67
-94,shore,Body of Water,85,67
-91,ocean,Body of Water,85,67
+74,mountain range,Terrain,142,85
+74,piste,Terrain,142,85
+67,winter sport,Sports,142,85
+65,snow,Weather,142,85
+64,ski equipment,Sports,142,85
+64,mountain,Terrain,142,85
+33,restaurant,Restaurants,139,65
+30,image,Art,139,65
+19,bar,Restaurants,139,65
+13,photograph,Art,139,65
+11,night,Time of Day,139,65
+61,fashion,Clothing,18,46
+31,person,People,18,46
+23,photo shoot,Art,18,46
+20,people,People,18,46
+19,model,Clothing,18,46
+19,clothing,Clothing,18,46
+99,sky,Sky,80,67
+99,cloud,Sky,80,67
+96,horizon,Sky,80,67
+95,sea,Body of Water,80,67
+94,shore,Body of Water,80,67
+91,ocean,Body of Water,80,67
 99,metropolitan area,"Cities, Towns, & Buildings",36,78
 99,skyscraper,"Cities, Towns, & Buildings",36,78
 98,metropolis,"Cities, Towns, & Buildings",36,78
 97,skyline,"Cities, Towns, & Buildings",36,78
 97,tower block,"Cities, Towns, & Buildings",36,78
 94,city,"Cities, Towns, & Buildings",36,78
-74,wall,Nonbuilding Structures,8,85
-63,ancient history,History,8,85
-51,rock,"Minerals, Rocks, & Metals",8,85
-51,ruins,History,8,85
-27,photograph,Art,8,85
-21,art,Art,8,85
-88,evening,Time of Day,175,109
-88,dusk,Time of Day,175,109
-83,sunset,Time of Day,175,109
-82,sea,Body of Water,175,109
-81,morning,Time of Day,175,109
-65,horizon,Sky,175,109
-98,metropolitan area,Roads and Bridges,114,89
-97,road,Roads and Bridges,114,89
-97,city,Roads and Bridges,114,89
-96,urban area,Roads and Bridges,114,89
-95,downtown,Roads and Bridges,114,89
-95,cityscape,Roads and Bridges,114,89
-99,footwear,Fashion Accessories,173,74
-98,sneakers,Fashion Accessories,173,74
-97,black,Color,173,74
-90,brown,Color,173,74
-86,shoe,Fashion Accessories,173,74
-63,leather,Fashion Accessories,173,74
-93,vacation,Travel,168,92
-91,coast,Terrain,168,92
-90,sea,Terrain,168,92
-82,cliff,Terrain,168,92
-56,ocean,Terrain,168,92
-53,mountain,Terrain,168,92
-82,brand,Retail,128,31
-73,pink,Color,128,31
-67,font,"Letters, Numbers, Words",128,31
-58,text,"Letters, Numbers, Words",128,31
-39,advertising,Advertising,128,31
-30,writing,Education,128,31
-31,image,Art,98,1
-15,photograph,Art,98,1
-94,red,Color,52,56
-92,clothing,Clothing,52,56
-73,font,"Letters, Numbers, Words",52,56
-63,brand,Retail,52,56
-44,sleeve,Clothing,52,56
-25,maroon,Color,52,56
-99,hockey,Sports,2,82
-99,ball game,Sports,2,82
-98,sports,Sports,2,82
-98,stick and ball games,Sports,2,82
-97,ice hockey,Sports,2,82
-97,team sport,Sports,2,82
-40,design,Art,195,74
-21,text,"Letters, Numbers, Words",195,74
-14,writing,Education,195,74
-14,brand,Retail,195,74
-12,poster,Art,195,74
-11,art,Art,195,74
-49,rural area,Real Estate,74,23
-38,estate,Real Estate,74,23
-33,vacation,Travel,74,23
-31,ruins,History,74,23
-20,village,Real Estate,74,23
-19,landscape,Landscaping,74,23
-99,net,Materials,32,62
-97,fence,Landscaping,32,62
-91,home fencing,Landscaping,32,62
-87,player,Sports,32,62
-81,outdoor structure,Materials,32,62
-51,sport venue,Sports,32,62
-90,landmark,Nonbuilding Structures,103,84
-70,facade,"Cities, Towns, & Buildings",103,84
-69,architecture,"Cities, Towns, & Buildings",103,84
-33,building,"Cities, Towns, & Buildings",103,84
-31,arch,"Cities, Towns, & Buildings",103,84
-30,tower,"Cities, Towns, & Buildings",103,84
-83,person,People,88,43
-46,facial expression,People,88,43
-25,adolescence,People,88,43
-23,eating,Food,88,43
-22,child,People,88,43
-18,smile,People,88,43
-96,beach,Body of Water,89,31
-96,sea,Body of Water,89,31
-94,shore,Body of Water,89,31
-93,coast,Body of Water,89,31
-89,ocean,Body of Water,89,31
-86,body of water,Body of Water,89,31
-35,people,People,122,70
-27,presentation,Education,122,70
-19,image,Art,122,70
-16,photomontage,Art,122,70
-89,structure,Nonbuilding Structures,94,58
-74,architecture,"Cities, Towns, & Buildings",94,58
-56,facade,"Cities, Towns, & Buildings",94,58
-54,sport venue,Sports,94,58
-54,stadium,"Cities, Towns, & Buildings",94,58
-49,arena,"Cities, Towns, & Buildings",94,58
-92,flower,"Flowers, Plants, Trees",44,7
-89,tree,"Flowers, Plants, Trees",44,7
-78,plant,"Flowers, Plants, Trees",44,7
-78,produce,Food,44,7
-77,botany,"Flowers, Plants, Trees",44,7
-77,land plant,"Flowers, Plants, Trees",44,7
-98,people,Family & Relationships,112,99
-43,social group,Family & Relationships,112,99
-30,meal,Food,112,99
-13,person,Family & Relationships,112,99
-11,community,Family & Relationships,112,99
-11,family,Family & Relationships,112,99
-28,people,Family & Relationships,142,44
-22,event,Live Events,142,44
-21,party,Live Events,142,44
-20,meal,Food,142,44
-19,ceremony,Family & Relationships,142,44
-16,christmas,Holidays,142,44
-99,crowd,People,62,100
-98,audience,Live Events,62,100
-96,people,People,62,100
-58,orchestra,Live Events,62,100
-38,performance,Live Events,62,100
-36,structure,Nonbuilding Structures,62,100
-99,skyline,"Cities, Towns, & Buildings",192,73
-98,horizon,Sky,192,73
-98,city,"Cities, Towns, & Buildings",192,73
-93,skyscraper,"Cities, Towns, & Buildings",192,73
-92,cityscape,"Cities, Towns, & Buildings",192,73
-91,human settlement,People,192,73
-90,vegetable,Food,95,76
-87,dish,Food,95,76
-86,food,Food,95,76
-84,produce,Food,95,76
-61,meal,Food,95,76
-55,vegetarian food,Food,95,76
-77,structure,Nonbuilding Structures,145,74
-74,sport venue,Sports,145,74
-36,stadium,"Cities, Towns, & Buildings",145,74
-23,sports,Sports,145,74
-22,race track,Sports,145,74
-20,vehicle,Automotive,145,74
-69,sitting,People,45,62
-41,image,Art,45,62
-36,floor,Rooms,45,62
-32,photograph,Art,45,62
-26,furniture,Rooms,45,62
-25,wood,Materials,45,62
-22,poster,Reading,21,85
-22,text,"Letters, Numbers, Words",21,85
-15,advertising,Advertising,21,85
-14,cash,Banking,21,85
-13,book,Reading,21,85
-71,art,Design,180,16
-61,design,Design,180,16
-54,brand,Retail,180,16
-41,wall,Nonbuilding Structures,180,16
-39,exhibition,Education,180,16
-30,font,"Letters, Numbers, Words",180,16
-34,people,People,182,43
-38,restaurant,Restaurants,7,96
-27,bar,Restaurants,7,96
-14,interior design,House,7,96
-87,people,Family & Relationships,144,28
-36,person,Family & Relationships,144,28
-35,family,Family & Relationships,144,28
-14,social group,Family & Relationships,144,28
-11,photograph,Art,144,28
-96,sky,Sky,194,25
-87,morning,Time of Day,194,25
-85,sunset,Time of Day,194,25
-78,cloud,Sky,194,25
-77,evening,Time of Day,194,25
-76,dawn,Time of Day,194,25
-97,vacation,Travel,40,2
-86,sea,Body of Water,40,2
-84,vehicle,Automotive,40,2
-79,boat,Outdoor Recreation,40,2
-70,boating,Outdoor Recreation,40,2
-23,watercraft,Outdoor Recreation,40,2
-93,darkness,Time of Day,101,57
-80,light,Electricity & Lighting,101,57
-73,night,Time of Day,101,57
-64,black,Color,101,57
-48,lighting,Electricity & Lighting,101,57
-43,shape,Color,101,57
-74,people,People,189,29
-50,person,People,189,29
-46,facial expression,People,189,29
-34,smile,People,189,29
-32,beauty,Beauty,189,29
-31,winter,Seasons,189,29
-60,tourism,Travel,91,26
-50,vacation,Travel,91,26
-36,temple,"Cities, Towns, & Buildings",91,26
-35,festival,Holidays,91,26
-20,resort,Travel,91,26
-15,park,"Cities, Towns, & Buildings",91,26
-98,image,Art,69,72
-84,photograph,Art,69,72
-47,photography,Art,69,72
-27,people,People,69,72
-17,person,People,69,72
-12,portrait,Art,69,72
-92,waterfall,Body of Water,137,83
-77,adventure,Outdoor Recreation,137,83
-65,water feature,Furniture,137,83
-42,water,Natural Elements,137,83
-42,body of water,Body of Water,137,83
-33,river,Body of Water,137,83
-21,clothing,Fashion Accessories,120,11
-12,glasses,Fashion Accessories,120,11
-97,alley,Roads and Bridges,70,26
-96,town,Roads and Bridges,70,26
-94,road,Roads and Bridges,70,26
-94,neighbourhood,House,70,26
-92,lane,Roads and Bridges,70,26
-90,street,Roads and Bridges,70,26
-72,tree,Sky,119,22
-59,sky,Sky,119,22
-52,evening,Time of Day,119,22
-51,morning,Time of Day,119,22
-41,sunset,Time of Day,119,22
-37,cityscape,Real Estate,119,22
-95,bikini,Clothing,115,81
-93,sun tanning,Clothing,115,81
-89,leg,People,115,81
-86,clothing,Clothing,115,81
-81,swimwear,Clothing,115,81
-68,vacation,Travel,115,81
-92,people,People,179,4
-69,tree,"Flowers, Plants, Trees",179,4
-58,vacation,Travel,179,4
-39,walking,People,179,4
-31,wilderness,Terrain,179,4
-30,hiking,Sports,179,4
-78,urban area,Roads and Bridges,14,102
-30,art,Art,14,102
-28,street,Roads and Bridges,14,102
-18,road,Roads and Bridges,14,102
-16,night,Time of Day,14,102
-14,window,Rooms,14,102
-26,shape,Art,170,7
-22,image,Art,170,7
-18,darkness,Time of Day,170,7
-16,food,Food,170,7
-34,structure,Nonbuilding Structures,13,42
-29,sport venue,Sports,13,42
-23,audience,Live Events,13,42
-16,sports,Sports,13,42
-14,crowd,People,13,42
-13,stadium,"Cities, Towns, & Buildings",13,42
-95,sea,Body of Water,150,93
-95,shore,Body of Water,150,93
-89,ocean,Body of Water,150,93
-87,horizon,Sky,150,93
-82,coast,Body of Water,150,93
-79,wave,Body of Water,150,93
-51,team,People,97,34
-12,person,People,97,34
-46,person,People,107,64
-34,vacation,Travel,107,64
-26,male,People,107,64
-25,limb,People,107,64
-22,image,Art,107,64
-18,beauty,Beauty,107,64
-19,presentation,Education,198,1
-19,image,Art,198,1
-91,face,People,42,0
-89,hair,Beauty,42,0
-80,nose,People,42,0
-74,head,People,42,0
-56,moustache,Beauty,42,0
-36,facial hair,Beauty,42,0
-88,walkway,Roads and Bridges,41,19
-81,town,Roads and Bridges,41,19
-73,street,Roads and Bridges,41,19
-69,neighbourhood,House,41,19
-68,city,Roads and Bridges,41,19
-62,road,Roads and Bridges,41,19
-86,christmas decoration,Holidays,50,71
-67,christmas tree,Holidays,50,71
-61,tree,"Flowers, Plants, Trees",50,71
-61,christmas,Holidays,50,71
-53,christmas lights,Holidays,50,71
-24,event,Live Events,50,71
-62,person,People,79,102
-59,art,Art,79,102
-54,poster,Art,79,102
-36,portrait,Art,79,102
-30,album cover,Music,79,102
-89,flower,"Flowers, Plants, Trees",169,87
-83,floristry,"Flowers, Plants, Trees",169,87
-36,floral design,"Flowers, Plants, Trees",169,87
-36,flora,"Flowers, Plants, Trees",169,87
-34,plant,"Flowers, Plants, Trees",169,87
-21,art,Art,169,87
-96,floor,Rooms,164,48
-92,wood,Materials,164,48
-92,flooring,Rooms,164,48
-79,hardwood,Rooms,164,48
-61,wood flooring,Rooms,164,48
-40,laminate flooring,Rooms,164,48
-85,street,Roads and Bridges,39,87
-84,road,Roads and Bridges,39,87
-37,pedestrian,People,39,87
-35,infrastructure,Roads and Bridges,39,87
-15,crowd,People,39,87
-14,city,Roads and Bridges,39,87
-59,people,Family & Relationships,193,28
-18,fun,Family & Relationships,193,28
-15,person,Family & Relationships,193,28
-12,social group,Family & Relationships,193,28
-11,art,Art,193,28
-72,people,Family & Relationships,22,107
-48,person,Family & Relationships,22,107
-36,interaction,Family & Relationships,22,107
-30,woman,Family & Relationships,22,107
-16,smile,Family & Relationships,22,107
-15,facial expression,Family & Relationships,22,107
-87,clothing,Fashion Accessories,73,2
-70,purple,Color,73,2
-58,hair,Fashion Accessories,73,2
-54,brown,Color,73,2
-39,pink,Color,73,2
-33,fashion accessory,Fashion Accessories,73,2
-54,rural area,Real Estate,90,25
-46,agriculture,Agriculture,90,25
-27,vacation,Travel,90,25
-23,tree,Agriculture,90,25
-19,farm,Agriculture,90,25
-19,grass,Landscaping,90,25
-91,person,Family & Relationships,167,22
-18,singing,Live Events,167,22
-18,conversation,Family & Relationships,167,22
-16,speech,Live Events,167,22
-12,facial hair,Beauty,167,22
-12,profession,Education,167,22
-99,sky,Sky,116,11
-91,sunset,Time of Day,116,11
-86,morning,Time of Day,116,11
-83,evening,Time of Day,116,11
-82,cloud,Sky,116,11
-80,dusk,Time of Day,116,11
-93,people,Family & Relationships,33,87
-59,person,Family & Relationships,33,87
-40,adolescence,Family & Relationships,33,87
-24,family,Family & Relationships,33,87
-22,smile,Family & Relationships,33,87
-16,day,Time of Day,33,87
-56,art,Art,60,46
-50,food,Food,60,46
-31,carving,Art,60,46
-31,pattern,Clothing,60,46
-21,dessert,Food,60,46
-20,wood,Materials,60,46
-86,people,People,105,17
-67,vacation,Travel,105,17
-15,tourism,Travel,105,17
-14,tree,"Flowers, Plants, Trees",105,17
-14,man,People,105,17
-12,person,People,105,17
-23,people,People,132,107
-15,person,People,132,107
-50,animal,Wild Animals,80,19
-44,pet,Wild Animals,80,19
-26,bird,Wild Animals,80,19
-24,mammal,Wild Animals,80,19
-15,chicken,Wild Animals,80,19
-14,cat,Wild Animals,80,19
-98,city,"Cities, Towns, & Buildings",143,23
-96,urban area,"Cities, Towns, & Buildings",143,23
-96,cityscape,"Cities, Towns, & Buildings",143,23
-96,skyline,"Cities, Towns, & Buildings",143,23
-95,human settlement,People,143,23
-94,downtown,"Cities, Towns, & Buildings",143,23
-11,sand,Terrain,43,51
-23,photograph,Art,96,16
-18,image,Art,96,16
-17,people,People,96,16
-12,photography,Art,96,16
-36,clothing,Clothing,141,14
-19,christmas,Holidays,141,14
-14,people,People,141,14
-13,costume,Clothing,141,14
-12,person,People,141,14
-23,musical theatre,Live Events,188,47
-23,musician,Live Events,188,47
-17,performing arts,Live Events,188,47
-16,performance art,Live Events,188,47
-14,person,People,188,47
-11,troop,Military,188,47
-33,people,People,154,53
-11,winter,Seasons,154,53
-37,cycling,Sports,47,23
-30,team,People,47,23
-23,bicycle,Sports,47,23
-22,vehicle,Automotive,47,23
-20,sports,Sports,47,23
-18,endurance sports,Sports,47,23
-89,clothing,Fashion Accessories,63,61
-86,costume,Fashion Accessories,63,61
-51,glasses,Fashion Accessories,63,61
-35,fun,People,63,61
-23,festival,Holidays,63,61
-19,color,Color,63,61
-56,image,Color,3,1
-20,art,Color,3,1
-16,color,Color,3,1
-16,clothing,Clothing,3,1
-11,poster,Color,3,1
-95,people,Family & Relationships,156,28
-43,person,Family & Relationships,156,28
-32,family,Family & Relationships,156,28
-22,social group,Family & Relationships,156,28
-16,adolescence,Family & Relationships,156,28
-14,child,Family & Relationships,156,28
-80,vehicle,Transportation / Shipping,148,98
-27,car,Transportation / Shipping,148,98
-20,sports car,Transportation / Shipping,148,98
-16,taxi,Transportation / Shipping,148,98
-11,traffic,Transportation / Shipping,148,98
-11,sedan,Transportation / Shipping,148,98
-86,infant,People,178,7
-84,child,People,178,7
-75,person,People,178,7
-73,toddler,People,178,7
-71,eating,Food,178,7
-60,hand,People,178,7
-54,adult,People,75,55
-50,presentation,Education,75,55
-14,image,Art,75,55
-13,person,People,75,55
-12,people,People,75,55
-93,landmark,Nonbuilding Structures,157,29
-80,night,Time of Day,157,29
-46,building,"Cities, Towns, & Buildings",157,29
-36,place of worship,"Cities, Towns, & Buildings",157,29
-33,cathedral,Religious Items,157,29
-23,evening,Time of Day,157,29
-59,clothing,Clothing,12,46
-43,road,Roads and Bridges,12,46
-39,fashion,Clothing,12,46
-34,lady,People,12,46
-30,street,Roads and Bridges,12,46
-21,hair,Clothing,12,46
-72,mountain,Terrain,117,70
-47,mountain range,Terrain,117,70
-41,mountainous landforms,Terrain,117,70
-41,extreme sport,Outdoor Recreation,117,70
-33,sea,Terrain,117,70
-28,adventure,Outdoor Recreation,117,70
-27,person,People,185,48
-14,people,People,185,48
-87,wall,Nonbuilding Structures,66,76
-84,wood,Nonbuilding Structures,66,76
-83,brick,Nonbuilding Structures,66,76
-76,color,Color,66,76
-60,red,Color,66,76
-54,floor,Rooms,66,76
-41,sign,Signs & Flags,37,98
-37,advertising,Advertising,37,98
-22,signage,Signs & Flags,37,98
-19,green,Color,37,98
-92,person,People,196,71
-60,hair,Beauty,196,71
-43,adolescence,People,196,71
-40,facial expression,People,196,71
-33,adult,People,196,71
-30,smile,People,196,71
-14,people,People,160,43
-11,photograph,Art,160,43
-23,urban area,"Cities, Towns, & Buildings",181,64
-22,architecture,"Cities, Towns, & Buildings",181,64
-20,transport,Transportation / Shipping,181,64
-18,wall,Nonbuilding Structures,181,64
-14,facade,"Cities, Towns, & Buildings",181,64
-91,people,Family & Relationships,54,85
-49,social group,Family & Relationships,54,85
-24,team,Family & Relationships,54,85
-20,community,Family & Relationships,54,85
-12,family,Family & Relationships,54,85
-98,flower,"Flowers, Plants, Trees",31,51
-94,blossom,"Flowers, Plants, Trees",31,51
-89,tree,"Flowers, Plants, Trees",31,51
-88,plant,"Flowers, Plants, Trees",31,51
-68,cherry blossom,"Flowers, Plants, Trees",31,51
-60,botany,"Flowers, Plants, Trees",31,51
-41,drink,Food,49,37
-28,wine bottle,Food,49,37
-21,brand,Retail,49,37
-18,wine,Food,49,37
-16,beverage,Food,49,37
-15,produce,Food,49,37
-98,art gallery,Art,159,48
-97,art,Art,159,48
-94,exhibition,Education,159,48
-93,art exhibition,Art,159,48
-93,modern art,Art,159,48
-90,tourist attraction,Travel,159,48
-63,mountain,Terrain,153,21
-62,sea,Terrain,153,21
-47,snow,Weather,153,21
-40,winter,Seasons,153,21
-26,wind,Weather,153,21
-25,wilderness,Terrain,153,21
-52,clothing,Clothing,118,0
-39,design,Color,118,0
-27,pattern,Clothing,118,0
-15,adult,People,118,0
-14,brown,Color,118,0
-62,social group,Family & Relationships,25,54
-53,musician,Music,25,54
-42,people,Family & Relationships,25,54
-41,musical theatre,Music,25,54
-23,singing,Music,25,54
-19,youth,Family & Relationships,25,54
-90,town,Real Estate,86,49
-63,coast,Body of Water,86,49
-50,tourism,Travel,86,49
-45,sea,Body of Water,86,49
-37,vacation,Travel,86,49
-33,cityscape,Real Estate,86,49
-98,light,Electricity & Lighting,71,57
-98,darkness,Time of Day,71,57
-93,lighting,Electricity & Lighting,71,57
-81,yellow,Color,71,57
-65,night,Time of Day,71,57
-56,light fixture,Electricity & Lighting,71,57
-60,vacation,Travel,81,50
-32,tourism,Travel,81,50
-21,construction,Construction,81,50
-17,structure,Nonbuilding Structures,81,50
-12,travel,Travel,81,50
-11,wall,Nonbuilding Structures,81,50
-20,sports,Sports,28,58
-18,stage,Live Events,28,58
-18,performing arts,Live Events,28,58
-11,performance art,Live Events,28,58
-32,image,Art,18,42
-21,painting,Art,18,42
-14,person,People,18,42
-13,art,Art,18,42
-51,musician,Live Events,35,33
-22,sports,Sports,35,33
-20,performance,Live Events,35,33
-17,social group,Family & Relationships,35,33
-16,festival,Holidays,35,33
-12,music,Live Events,35,33
-47,people,Family & Relationships,161,90
-30,social group,Family & Relationships,161,90
-27,team,Family & Relationships,161,90
-16,youth,Family & Relationships,161,90
-11,adolescence,Family & Relationships,161,90
-94,downtown,"Cities, Towns, & Buildings",183,50
-94,tower block,"Cities, Towns, & Buildings",183,50
-93,urban area,"Cities, Towns, & Buildings",183,50
-92,architecture,"Cities, Towns, & Buildings",183,50
-92,skyscraper,"Cities, Towns, & Buildings",183,50
-91,city,"Cities, Towns, & Buildings",183,50
-71,street,Roads and Bridges,111,64
-62,road,Roads and Bridges,111,64
-60,urban area,Roads and Bridges,111,64
-52,photograph,Color,111,64
-41,color,Color,111,64
-33,image,Color,111,64
-88,person,People,29,79
-80,endurance,Outdoor Recreation,29,79
-79,running,Outdoor Recreation,29,79
-79,athletics,Outdoor Recreation,29,79
-77,outdoor recreation,Outdoor Recreation,29,79
-71,recreation,Outdoor Recreation,29,79
-82,people,Family & Relationships,184,1
-62,person,Family & Relationships,184,1
-38,family,Family & Relationships,184,1
-33,day,Time of Day,184,1
-30,child,Family & Relationships,184,1
-24,adolescence,Family & Relationships,184,1
-91,skyline,"Cities, Towns, & Buildings",78,19
-87,city,"Cities, Towns, & Buildings",78,19
-77,downtown,"Cities, Towns, & Buildings",78,19
-77,human settlement,People,78,19
-76,cityscape,"Cities, Towns, & Buildings",78,19
-75,residential area,House,78,19
-61,person,People,56,28
-51,people,People,56,28
-32,photograph,Art,56,28
-17,man,People,56,28
-14,photo shoot,Art,56,28
-12,photography,Art,56,28
-35,shape,Art,104,100
-28,lighting,Electricity & Lighting,104,100
-26,man made object,Nonbuilding Structures,104,100
-17,table,Furniture,104,100
-17,restaurant,Restaurants,104,100
-11,drink,Beverages,104,100
-60,people,Family & Relationships,38,55
-58,play,Outdoor Recreation,38,55
-25,family,Family & Relationships,38,55
-24,community,Family & Relationships,38,55
-82,yellow,Color,9,41
-48,lego,Color,9,41
-45,toy,Color,9,41
-26,play,Outdoor Recreation,9,41
-98,night,Time of Day,16,44
-96,darkness,Time of Day,16,44
-88,house,House,16,44
-87,light,Electricity & Lighting,16,44
-81,lighting,Electricity & Lighting,16,44
-80,evening,Time of Day,16,44
-54,food,Food,108,15
-22,produce,Food,108,15
-16,breakfast,Food,108,15
-15,drink,Food,108,15
-59,color,Color,190,58
-59,screenshot,Color,190,58
-33,illustration,Color,190,58
-28,red,Color,190,58
-24,art,Color,190,58
-20,stage,Live Events,190,58
-75,beauty,Beauty,136,49
-74,phtograph,Art,136,49
-74,girl,People,136,49
-63,person,People,136,49
-62,portrait,Art,136,49
-61,lady,People,136,49
-89,sky,Sky,55,99
-86,road,Roads and Bridges,55,99
-81,morning,Time of Day,55,99
-73,sunset,Time of Day,55,99
-66,dusk,Time of Day,55,99
-62,evening,Time of Day,55,99
-78,wilderness,Terrain,177,22
-63,stream,Terrain,177,22
-58,water feature,Furniture,177,22
-54,waterfall,Terrain,177,22
-54,trail,Outdoor Recreation,177,22
-46,forest,Terrain,177,22
-60,clothing,Clothing,123,103
-33,fashion,Clothing,123,103
-17,person,People,123,103
-13,lady,People,123,103
-11,limb,People,123,103
-68,aviation,Aviation,124,84
-62,flight,Aviation,124,84
-54,vehicle,Aviation,124,84
-40,aircraft,Aviation,124,84
-29,airplane,Aviation,124,84
-29,ultralight aviation,Aviation,124,84
-69,community,Family & Relationships,46,53
-58,team,Family & Relationships,46,53
-50,youth,Family & Relationships,46,53
-40,class,Education,46,53
-38,people,Family & Relationships,46,53
-11,social group,Family & Relationships,46,53
-79,red,Color,82,83
-75,people,People,82,83
-71,person,People,82,83
-44,woman,People,82,83
-41,marriage,People,82,83
-25,female,People,82,83
-94,dish,Food,93,99
-91,food,Food,93,99
-86,breakfast,Food,93,99
-76,meal,Food,93,99
-69,produce,Food,93,99
-62,lunch,Food,93,99
-75,vehicle,Automotive,127,70
-44,boat,Outdoor Recreation,127,70
-27,boating,Outdoor Recreation,127,70
-23,watercraft,Outdoor Recreation,127,70
-18,ecosystem,Terrain,127,70
-16,motorboat,Outdoor Recreation,127,70
-97,color,Color,65,100
-91,food,Food,65,100
-73,dessert,Food,65,100
-49,confectionery,Food,65,100
-46,sweetness,Food,65,100
-46,yellow,Color,65,100
-92,people,Family & Relationships,146,42
-32,picnic,Outdoor Recreation,146,42
-15,community,Family & Relationships,146,42
-15,family,Family & Relationships,146,42
-11,social group,Family & Relationships,146,42
-11,ceremony,Family & Relationships,146,42
-83,drink,Food,139,60
-68,beverage,Food,139,60
-56,food,Food,139,60
-26,produce,Food,139,60
-15,cocktail,Food,139,60
-13,meal,Food,139,60
-72,color,Color,27,22
-43,art,Color,27,22
-13,food,Food,27,22
-87,photography,Color,125,39
-84,color,Color,125,39
-83,image,Color,125,39
-81,blue,Color,125,39
-79,photograph,Color,125,39
-71,portrait,Color,125,39
-68,glasses,Fashion Accessories,58,26
-47,people,People,58,26
-41,sunglasses,Fashion Accessories,58,26
-28,image,Art,58,26
-84,nose,People,110,55
-76,image,Art,110,55
-52,head,People,110,55
-45,hair,Beauty,110,55
-43,facial hair,Beauty,110,55
-41,face,People,110,55
-95,food,Food,24,97
-88,dish,Food,24,97
-71,meat,Food,24,97
-64,meal,Food,24,97
-62,breakfast,Food,24,97
-58,lunch,Food,24,97
-56,sports,Sports,23,0
-45,fitness,Fitness & Wellness,23,0
-23,physical exercise,Fitness & Wellness,23,0
-12,dance,Art,23,0
-40,morning,Seasons,155,18
-38,sunlight,Weather,155,18
-33,season,Seasons,155,18
-33,sunset,Seasons,155,18
-30,vacation,Travel,155,18
-24,beach,Body of Water,155,18
-93,presentation,Education,51,47
-69,photomontage,Art,51,47
-68,advertising,Advertising,51,47
-66,collage,Art,51,47
-57,brand,Retail,51,47
-36,art,Art,51,47
-36,store,Retail,158,89
-36,grocery store,Retail,158,89
-35,drink,Beverages,158,89
-21,bar,Retail,158,89
-17,beverage,Beverages,158,89
-13,supermarket,Retail,158,89
-95,food,Food,113,17
-92,dish,Food,113,17
-73,meal,Food,113,17
-69,breakfast,Food,113,17
-50,meat,Food,113,17
-49,produce,Food,113,17
-52,modern art,Design,152,78
-51,glass,Dishware,152,78
-48,interior design,House,152,78
-33,design,Design,152,78
-25,display case,House,152,78
-21,window,House,152,78
-97,beach,Terrain,64,31
-94,shore,Terrain,64,31
-91,sea,Terrain,64,31
-91,body of water,Terrain,64,31
-90,coast,Terrain,64,31
-85,sand,Terrain,64,31
-97,body of water,Body of Water,1,66
-96,beach,Body of Water,1,66
-96,horizon,Sky,1,66
-95,shore,Body of Water,1,66
-90,ocean,Body of Water,1,66
-89,sea,Body of Water,1,66
-81,performing arts,Live Events,151,87
-70,stage,Live Events,151,87
-67,performance art,Live Events,151,87
-63,musical theatre,Live Events,151,87
-63,entertainment,Live Events,151,87
-49,audience,Live Events,151,87
-96,sea,Body of Water,191,73
-91,coast,Body of Water,191,73
-90,vacation,Travel,191,73
-85,cape,Clothing,191,73
-80,ocean,Body of Water,191,73
-71,shore,Body of Water,191,73
-95,toddler,People,4,13
-94,child,People,4,13
-70,image,Art,4,13
-62,boy,People,4,13
-48,person,People,4,13
-33,infant,People,4,13
-12,art,Art,176,19
-77,pet,Pets,11,66
-60,dog,Pets,11,66
-15,person,People,11,66
-94,handwriting,"Letters, Numbers, Words",138,37
-94,text,"Letters, Numbers, Words",138,37
-68,document,"Letters, Numbers, Words",138,37
-62,writing,Education,138,37
-43,font,"Letters, Numbers, Words",138,37
-16,shape,Art,138,37
-91,meal,Food,133,26
-82,dinner,Food,133,26
-73,supper,Food,133,26
-72,people,People,133,26
-71,lunch,Food,133,26
-69,dish,Food,133,26
-69,people,People,68,88
-51,person,People,68,88
-81,mountain,Terrain,131,69
-73,walking,People,131,69
-71,adventure,Outdoor Recreation,131,69
-61,sea,Terrain,131,69
-61,vacation,Travel,131,69
-58,rock,"Minerals, Rocks, & Metals",131,69
-48,tourism,Travel,20,42
-38,blue,Color,20,42
-17,vacation,Travel,20,42
-16,world,Outer Space,20,42
-15,landmark,Nonbuilding Structures,20,42
-14,tours,Travel,20,42
-94,tree,"Flowers, Plants, Trees",121,49
-92,botany,"Flowers, Plants, Trees",121,49
-82,garden,Landscaping,121,49
-81,flower,"Flowers, Plants, Trees",121,49
-75,arecales,"Flowers, Plants, Trees",121,49
-69,vacation,Travel,121,49
-92,home,House,87,93
-92,house,House,87,93
-88,facade,"Cities, Towns, & Buildings",87,93
-85,window,House,87,93
-82,property,"Cities, Towns, & Buildings",87,93
-76,wall,Nonbuilding Structures,87,93
-96,food,Food,59,15
-85,dessert,Food,59,15
-25,baking,Food,59,15
-20,baked goods,Food,59,15
-19,icing,Food,59,15
-19,cookies,Food,59,15
-88,font,Signs & Flags,15,19
-39,text,Signs & Flags,15,19
-33,number,Signs & Flags,15,19
-17,signage,Signs & Flags,15,19
-14,screenshot,Art,15,19
-11,illustration,Art,15,19
-85,drawing,Design,67,67
-78,pattern,Clothing,67,67
-58,sketch,Design,67,67
-42,design,Design,67,67
-38,art,Design,67,67
-37,monochrome photography,Design,67,67
-68,hand,People,53,74
-61,fashion accessory,Fashion Accessories,53,74
-39,bracelet,Fashion Accessories,53,74
-33,jewellery,Fashion Accessories,53,74
-31,arm,People,53,74
-24,finger,People,53,74
-93,graduation,Education,109,5
-79,academic dress,Fashion Accessories,109,5
-54,clothing,Fashion Accessories,109,5
-47,umbrella,Fashion Accessories,109,5
-24,mortarboard,Construction,109,5
-88,sports,Sports,166,34
-81,ball game,Sports,166,34
-70,basketball player,Sports,166,34
-69,basketball,Sports,166,34
-67,team sport,Sports,166,34
-21,tournament,Live Events,166,34
-60,people,People,149,93
-52,person,People,149,93
-99,guitar,Music,30,96
-97,musical instrument,Music,30,96
-97,bass guitar,Music,30,96
-96,string instrument,Music,30,96
-95,plucked string instruments,Music,30,96
-89,acoustic guitar,Music,30,96
-72,monochrome photography,Art,171,5
-58,cartoon,TV,171,5
-47,photograph,Art,171,5
-40,image,Art,171,5
-39,poster,Art,171,5
-34,monochrome,Art,171,5
-86,sports,Sports,172,29
-82,air sports,Sports,172,29
-81,extreme sport,Sports,172,29
-76,mountain range,Terrain,172,29
-64,windsports,Sports,172,29
-62,mountain,Terrain,172,29
-34,endurance sports,Sports,102,70
-15,clothing,Clothing,102,70
-99,pet,Wild Animals,130,10
-90,animal,Wild Animals,130,10
-89,mammal,Wild Animals,130,10
-59,dog,Wild Animals,130,10
-57,puppy,Wild Animals,130,10
-83,social group,Family & Relationships,61,109
-66,musician,Live Events,61,109
-64,team,Family & Relationships,61,109
-57,people,Family & Relationships,61,109
-43,musical theatre,Live Events,61,109
-26,audience,Live Events,61,109
-88,art,Color,10,12
-77,mural,Color,10,12
-51,urban area,Real Estate,10,12
-39,graffiti,Color,10,12
-25,street art,Color,10,12
-24,color,Color,10,12
-91,ski,Sports,17,42
-91,skiing,Sports,17,42
-90,ski equipment,Sports,17,42
-86,winter sport,Sports,17,42
-83,alpine skiing,Sports,17,42
-83,sports,Sports,17,42
-87,dish,Food,48,78
-80,food,Food,48,78
-68,meal,Food,48,78
-64,breakfast,Food,48,78
-55,meat,Food,48,78
-31,asian food,Food,48,78
-49,singing,Live Events,57,55
-38,performance,Live Events,57,55
-32,musician,Live Events,57,55
-30,guitarist,Live Events,57,55
-27,performing arts,Live Events,57,55
-26,singer,Live Events,57,55
-58,urban area,"Cities, Towns, & Buildings",163,94
-56,landmark,Nonbuilding Structures,163,94
-50,facade,"Cities, Towns, & Buildings",163,94
-47,downtown,"Cities, Towns, & Buildings",163,94
-41,blue,Color,163,94
-40,skyscraper,"Cities, Towns, & Buildings",163,94
-97,photography,Art,165,81
-94,selfie,People,165,81
-91,image,Art,165,81
-75,people,People,165,81
-47,photograph,Art,165,81
-45,portrait,Art,165,81
-98,eyebrow,People,83,32
-96,face,People,83,32
-96,eye,People,83,32
-90,nose,People,83,32
-76,eyelash,People,83,32
-72,human body,People,83,32
-34,people,Family & Relationships,84,28
-34,album cover,Music,84,28
-33,photograph,Art,84,28
-32,poster,Art,84,28
-24,social group,Family & Relationships,84,28
-22,youth,Family & Relationships,84,28
-60,nightclub,Live Events,134,68
-43,club,Live Events,134,68
-29,disco,Live Events,134,68
-13,music,Live Events,134,68
-27,image,Art,126,21
-23,stage,Live Events,126,21
-18,display device,Consumer Electronics,126,21
-95,sea,Body of Water,77,27
-92,shore,Body of Water,77,27
-92,ocean,Body of Water,77,27
-91,coast,Body of Water,77,27
-84,beach,Body of Water,77,27
-84,rock,"Minerals, Rocks, & Metals",77,27
-97,people,Family & Relationships,186,83
-72,person,Family & Relationships,186,83
-18,social group,Family & Relationships,186,83
-17,audience,Live Events,186,83
-12,musician,Live Events,186,83
-86,drink,Beverages,26,82
-79,beer,Beverages,26,82
-68,beverage,Beverages,26,82
-67,man made object,Nonbuilding Structures,26,82
-58,glass,Beverages,26,82
-44,ale,Beverages,26,82
-98,snow,Weather,162,100
-96,winter,Seasons,162,100
-94,weather,Weather,162,100
-90,branch,Weather,162,100
-89,freezing,Weather,162,100
-86,tree,Weather,162,100
-96,color,Color,174,64
-68,yellow,Color,174,64
-51,fashion accessory,Fashion Accessories,174,64
-47,red,Color,174,64
-39,sunglasses,Fashion Accessories,174,64
-38,glasses,Fashion Accessories,174,64
+74,wall,Nonbuilding Structures,99,85
+63,ancient history,History,99,85
+51,rock,"Minerals, Rocks, & Metals",99,85
+51,ruins,History,99,85
+27,photograph,Art,99,85
+21,art,Art,99,85
+88,evening,Time of Day,92,109
+88,dusk,Time of Day,92,109
+83,sunset,Time of Day,92,109
+82,sea,Body of Water,92,109
+81,morning,Time of Day,92,109
+65,horizon,Sky,92,109
+98,metropolitan area,Roads and Bridges,101,89
+97,road,Roads and Bridges,101,89
+97,city,Roads and Bridges,101,89
+96,urban area,Roads and Bridges,101,89
+95,downtown,Roads and Bridges,101,89
+95,cityscape,Roads and Bridges,101,89
+99,footwear,Fashion Accessories,77,74
+98,sneakers,Fashion Accessories,77,74
+97,black,Color,77,74
+90,brown,Color,77,74
+86,shoe,Fashion Accessories,77,74
+63,leather,Fashion Accessories,77,74
+93,vacation,Travel,192,92
+91,coast,Terrain,192,92
+90,sea,Terrain,192,92
+82,cliff,Terrain,192,92
+56,ocean,Terrain,192,92
+53,mountain,Terrain,192,92
+82,brand,Retail,132,31
+73,pink,Color,132,31
+67,font,"Letters, Numbers, Words",132,31
+58,text,"Letters, Numbers, Words",132,31
+39,advertising,Advertising,132,31
+30,writing,Education,132,31
+31,image,Art,59,1
+15,photograph,Art,59,1
+94,red,Color,108,56
+92,clothing,Clothing,108,56
+73,font,"Letters, Numbers, Words",108,56
+63,brand,Retail,108,56
+44,sleeve,Clothing,108,56
+25,maroon,Color,108,56
+99,hockey,Sports,83,82
+99,ball game,Sports,83,82
+98,sports,Sports,83,82
+98,stick and ball games,Sports,83,82
+97,ice hockey,Sports,83,82
+97,team sport,Sports,83,82
+40,design,Art,50,74
+21,text,"Letters, Numbers, Words",50,74
+14,writing,Education,50,74
+14,brand,Retail,50,74
+12,poster,Art,50,74
+11,art,Art,50,74
+49,rural area,Real Estate,43,23
+38,estate,Real Estate,43,23
+33,vacation,Travel,43,23
+31,ruins,History,43,23
+20,village,Real Estate,43,23
+19,landscape,Landscaping,43,23
+99,net,Materials,13,62
+97,fence,Landscaping,13,62
+91,home fencing,Landscaping,13,62
+87,player,Sports,13,62
+81,outdoor structure,Materials,13,62
+51,sport venue,Sports,13,62
+90,landmark,Nonbuilding Structures,7,84
+70,facade,"Cities, Towns, & Buildings",7,84
+69,architecture,"Cities, Towns, & Buildings",7,84
+33,building,"Cities, Towns, & Buildings",7,84
+31,arch,"Cities, Towns, & Buildings",7,84
+30,tower,"Cities, Towns, & Buildings",7,84
+83,person,People,6,43
+46,facial expression,People,6,43
+25,adolescence,People,6,43
+23,eating,Food,6,43
+22,child,People,6,43
+18,smile,People,6,43
+96,beach,Body of Water,187,31
+96,sea,Body of Water,187,31
+94,shore,Body of Water,187,31
+93,coast,Body of Water,187,31
+89,ocean,Body of Water,187,31
+86,body of water,Body of Water,187,31
+35,people,People,190,70
+27,presentation,Education,190,70
+19,image,Art,190,70
+16,photomontage,Art,190,70
+89,structure,Nonbuilding Structures,76,58
+74,architecture,"Cities, Towns, & Buildings",76,58
+56,facade,"Cities, Towns, & Buildings",76,58
+54,sport venue,Sports,76,58
+54,stadium,"Cities, Towns, & Buildings",76,58
+49,arena,"Cities, Towns, & Buildings",76,58
+92,flower,"Flowers, Plants, Trees",1,7
+89,tree,"Flowers, Plants, Trees",1,7
+78,plant,"Flowers, Plants, Trees",1,7
+78,produce,Food,1,7
+77,botany,"Flowers, Plants, Trees",1,7
+77,land plant,"Flowers, Plants, Trees",1,7
+98,people,Family & Relationships,91,99
+43,social group,Family & Relationships,91,99
+30,meal,Food,91,99
+13,person,Family & Relationships,91,99
+11,community,Family & Relationships,91,99
+11,family,Family & Relationships,91,99
+28,people,Family & Relationships,165,44
+22,event,Live Events,165,44
+21,party,Live Events,165,44
+20,meal,Food,165,44
+19,ceremony,Family & Relationships,165,44
+16,christmas,Holidays,165,44
+99,crowd,People,69,100
+98,audience,Live Events,69,100
+96,people,People,69,100
+58,orchestra,Live Events,69,100
+38,performance,Live Events,69,100
+36,structure,Nonbuilding Structures,69,100
+99,skyline,"Cities, Towns, & Buildings",106,73
+98,horizon,Sky,106,73
+98,city,"Cities, Towns, & Buildings",106,73
+93,skyscraper,"Cities, Towns, & Buildings",106,73
+92,cityscape,"Cities, Towns, & Buildings",106,73
+91,human settlement,People,106,73
+90,vegetable,Food,110,76
+87,dish,Food,110,76
+86,food,Food,110,76
+84,produce,Food,110,76
+61,meal,Food,110,76
+55,vegetarian food,Food,110,76
+77,structure,Nonbuilding Structures,84,74
+74,sport venue,Sports,84,74
+36,stadium,"Cities, Towns, & Buildings",84,74
+23,sports,Sports,84,74
+22,race track,Sports,84,74
+20,vehicle,Automotive,84,74
+69,sitting,People,194,62
+41,image,Art,194,62
+36,floor,Rooms,194,62
+32,photograph,Art,194,62
+26,furniture,Rooms,194,62
+25,wood,Materials,194,62
+22,poster,Reading,124,85
+22,text,"Letters, Numbers, Words",124,85
+15,advertising,Advertising,124,85
+14,cash,Banking,124,85
+13,book,Reading,124,85
+71,art,Design,120,16
+61,design,Design,120,16
+54,brand,Retail,120,16
+41,wall,Nonbuilding Structures,120,16
+39,exhibition,Education,120,16
+30,font,"Letters, Numbers, Words",120,16
+34,people,People,40,43
+38,restaurant,Restaurants,154,96
+27,bar,Restaurants,154,96
+14,interior design,House,154,96
+87,people,Family & Relationships,128,28
+36,person,Family & Relationships,128,28
+35,family,Family & Relationships,128,28
+14,social group,Family & Relationships,128,28
+11,photograph,Art,128,28
+96,sky,Sky,28,25
+87,morning,Time of Day,28,25
+85,sunset,Time of Day,28,25
+78,cloud,Sky,28,25
+77,evening,Time of Day,28,25
+76,dawn,Time of Day,28,25
+97,vacation,Travel,176,2
+86,sea,Body of Water,176,2
+84,vehicle,Automotive,176,2
+79,boat,Outdoor Recreation,176,2
+70,boating,Outdoor Recreation,176,2
+23,watercraft,Outdoor Recreation,176,2
+93,darkness,Time of Day,159,57
+80,light,Electricity & Lighting,159,57
+73,night,Time of Day,159,57
+64,black,Color,159,57
+48,lighting,Electricity & Lighting,159,57
+43,shape,Color,159,57
+74,people,People,56,29
+50,person,People,56,29
+46,facial expression,People,56,29
+34,smile,People,56,29
+32,beauty,Beauty,56,29
+31,winter,Seasons,56,29
+60,tourism,Travel,3,26
+50,vacation,Travel,3,26
+36,temple,"Cities, Towns, & Buildings",3,26
+35,festival,Holidays,3,26
+20,resort,Travel,3,26
+15,park,"Cities, Towns, & Buildings",3,26
+98,image,Art,17,72
+84,photograph,Art,17,72
+47,photography,Art,17,72
+27,people,People,17,72
+17,person,People,17,72
+12,portrait,Art,17,72
+92,waterfall,Body of Water,171,83
+77,adventure,Outdoor Recreation,171,83
+65,water feature,Furniture,171,83
+42,water,Natural Elements,171,83
+42,body of water,Body of Water,171,83
+33,river,Body of Water,171,83
+21,clothing,Fashion Accessories,10,11
+12,glasses,Fashion Accessories,10,11
+97,alley,Roads and Bridges,166,26
+96,town,Roads and Bridges,166,26
+94,road,Roads and Bridges,166,26
+94,neighbourhood,House,166,26
+92,lane,Roads and Bridges,166,26
+90,street,Roads and Bridges,166,26
+72,tree,Sky,16,22
+59,sky,Sky,16,22
+52,evening,Time of Day,16,22
+51,morning,Time of Day,16,22
+41,sunset,Time of Day,16,22
+37,cityscape,Real Estate,16,22
+95,bikini,Clothing,2,81
+93,sun tanning,Clothing,2,81
+89,leg,People,2,81
+86,clothing,Clothing,2,81
+81,swimwear,Clothing,2,81
+68,vacation,Travel,2,81
+92,people,People,22,4
+69,tree,"Flowers, Plants, Trees",22,4
+58,vacation,Travel,22,4
+39,walking,People,22,4
+31,wilderness,Terrain,22,4
+30,hiking,Sports,22,4
+78,urban area,Roads and Bridges,174,102
+30,art,Art,174,102
+28,street,Roads and Bridges,174,102
+18,road,Roads and Bridges,174,102
+16,night,Time of Day,174,102
+14,window,Rooms,174,102
+26,shape,Art,74,7
+22,image,Art,74,7
+18,darkness,Time of Day,74,7
+16,food,Food,74,7
+34,structure,Nonbuilding Structures,39,42
+29,sport venue,Sports,39,42
+23,audience,Live Events,39,42
+16,sports,Sports,39,42
+14,crowd,People,39,42
+13,stadium,"Cities, Towns, & Buildings",39,42
+95,sea,Body of Water,38,93
+95,shore,Body of Water,38,93
+89,ocean,Body of Water,38,93
+87,horizon,Sky,38,93
+82,coast,Body of Water,38,93
+79,wave,Body of Water,38,93
+51,team,People,79,34
+12,person,People,79,34
+46,person,People,160,64
+34,vacation,Travel,160,64
+26,male,People,160,64
+25,limb,People,160,64
+22,image,Art,160,64
+18,beauty,Beauty,160,64
+19,presentation,Education,149,1
+19,image,Art,149,1
+91,face,People,58,0
+89,hair,Beauty,58,0
+80,nose,People,58,0
+74,head,People,58,0
+56,moustache,Beauty,58,0
+36,facial hair,Beauty,58,0
+88,walkway,Roads and Bridges,180,19
+81,town,Roads and Bridges,180,19
+73,street,Roads and Bridges,180,19
+69,neighbourhood,House,180,19
+68,city,Roads and Bridges,180,19
+62,road,Roads and Bridges,180,19
+86,christmas decoration,Holidays,103,71
+67,christmas tree,Holidays,103,71
+61,tree,"Flowers, Plants, Trees",103,71
+61,christmas,Holidays,103,71
+53,christmas lights,Holidays,103,71
+24,event,Live Events,103,71
+62,person,People,96,102
+59,art,Art,96,102
+54,poster,Art,96,102
+36,portrait,Art,96,102
+30,album cover,Music,96,102
+89,flower,"Flowers, Plants, Trees",65,87
+83,floristry,"Flowers, Plants, Trees",65,87
+36,floral design,"Flowers, Plants, Trees",65,87
+36,flora,"Flowers, Plants, Trees",65,87
+34,plant,"Flowers, Plants, Trees",65,87
+21,art,Art,65,87
+96,floor,Rooms,182,48
+92,wood,Materials,182,48
+92,flooring,Rooms,182,48
+79,hardwood,Rooms,182,48
+61,wood flooring,Rooms,182,48
+40,laminate flooring,Rooms,182,48
+85,street,Roads and Bridges,100,87
+84,road,Roads and Bridges,100,87
+37,pedestrian,People,100,87
+35,infrastructure,Roads and Bridges,100,87
+15,crowd,People,100,87
+14,city,Roads and Bridges,100,87
+59,people,Family & Relationships,14,28
+18,fun,Family & Relationships,14,28
+15,person,Family & Relationships,14,28
+12,social group,Family & Relationships,14,28
+11,art,Art,14,28
+72,people,Family & Relationships,62,107
+48,person,Family & Relationships,62,107
+36,interaction,Family & Relationships,62,107
+30,woman,Family & Relationships,62,107
+16,smile,Family & Relationships,62,107
+15,facial expression,Family & Relationships,62,107
+87,clothing,Fashion Accessories,31,2
+70,purple,Color,31,2
+58,hair,Fashion Accessories,31,2
+54,brown,Color,31,2
+39,pink,Color,31,2
+33,fashion accessory,Fashion Accessories,31,2
+54,rural area,Real Estate,135,25
+46,agriculture,Agriculture,135,25
+27,vacation,Travel,135,25
+23,tree,Agriculture,135,25
+19,farm,Agriculture,135,25
+19,grass,Landscaping,135,25
+91,person,Family & Relationships,193,22
+18,singing,Live Events,193,22
+18,conversation,Family & Relationships,193,22
+16,speech,Live Events,193,22
+12,facial hair,Beauty,193,22
+12,profession,Education,193,22
+99,sky,Sky,53,11
+91,sunset,Time of Day,53,11
+86,morning,Time of Day,53,11
+83,evening,Time of Day,53,11
+82,cloud,Sky,53,11
+80,dusk,Time of Day,53,11
+93,people,Family & Relationships,153,87
+59,person,Family & Relationships,153,87
+40,adolescence,Family & Relationships,153,87
+24,family,Family & Relationships,153,87
+22,smile,Family & Relationships,153,87
+16,day,Time of Day,153,87
+56,art,Art,146,46
+50,food,Food,146,46
+31,carving,Art,146,46
+31,pattern,Clothing,146,46
+21,dessert,Food,146,46
+20,wood,Materials,146,46
+86,people,People,121,17
+67,vacation,Travel,121,17
+15,tourism,Travel,121,17
+14,tree,"Flowers, Plants, Trees",121,17
+14,man,People,121,17
+12,person,People,121,17
+23,people,People,112,107
+15,person,People,112,107
+50,animal,Wild Animals,116,19
+44,pet,Wild Animals,116,19
+26,bird,Wild Animals,116,19
+24,mammal,Wild Animals,116,19
+15,chicken,Wild Animals,116,19
+14,cat,Wild Animals,116,19
+98,city,"Cities, Towns, & Buildings",71,23
+96,urban area,"Cities, Towns, & Buildings",71,23
+96,cityscape,"Cities, Towns, & Buildings",71,23
+96,skyline,"Cities, Towns, & Buildings",71,23
+95,human settlement,People,71,23
+94,downtown,"Cities, Towns, & Buildings",71,23
+11,sand,Terrain,89,51
+23,photograph,Art,155,16
+18,image,Art,155,16
+17,people,People,155,16
+12,photography,Art,155,16
+36,clothing,Clothing,97,14
+19,christmas,Holidays,97,14
+14,people,People,97,14
+13,costume,Clothing,97,14
+12,person,People,97,14
+23,musical theatre,Live Events,168,47
+23,musician,Live Events,168,47
+17,performing arts,Live Events,168,47
+16,performance art,Live Events,168,47
+14,person,People,168,47
+11,troop,Military,168,47
+33,people,People,183,53
+11,winter,Seasons,183,53
+37,cycling,Sports,102,23
+30,team,People,102,23
+23,bicycle,Sports,102,23
+22,vehicle,Automotive,102,23
+20,sports,Sports,102,23
+18,endurance sports,Sports,102,23
+89,clothing,Fashion Accessories,93,61
+86,costume,Fashion Accessories,93,61
+51,glasses,Fashion Accessories,93,61
+35,fun,People,93,61
+23,festival,Holidays,93,61
+19,color,Color,93,61
+56,image,Color,172,1
+20,art,Color,172,1
+16,color,Color,172,1
+16,clothing,Clothing,172,1
+11,poster,Color,172,1
+95,people,Family & Relationships,175,28
+43,person,Family & Relationships,175,28
+32,family,Family & Relationships,175,28
+22,social group,Family & Relationships,175,28
+16,adolescence,Family & Relationships,175,28
+14,child,Family & Relationships,175,28
+80,vehicle,Transportation / Shipping,129,98
+27,car,Transportation / Shipping,129,98
+20,sports car,Transportation / Shipping,129,98
+16,taxi,Transportation / Shipping,129,98
+11,traffic,Transportation / Shipping,129,98
+11,sedan,Transportation / Shipping,129,98
+86,infant,People,4,7
+84,child,People,4,7
+75,person,People,4,7
+73,toddler,People,4,7
+71,eating,Food,4,7
+60,hand,People,4,7
+54,adult,People,184,55
+50,presentation,Education,184,55
+14,image,Art,184,55
+13,person,People,184,55
+12,people,People,184,55
+93,landmark,Nonbuilding Structures,19,29
+80,night,Time of Day,19,29
+46,building,"Cities, Towns, & Buildings",19,29
+36,place of worship,"Cities, Towns, & Buildings",19,29
+33,cathedral,Religious Items,19,29
+23,evening,Time of Day,19,29
+59,clothing,Clothing,70,46
+43,road,Roads and Bridges,70,46
+39,fashion,Clothing,70,46
+34,lady,People,70,46
+30,street,Roads and Bridges,70,46
+21,hair,Clothing,70,46
+72,mountain,Terrain,49,70
+47,mountain range,Terrain,49,70
+41,mountainous landforms,Terrain,49,70
+41,extreme sport,Outdoor Recreation,49,70
+33,sea,Terrain,49,70
+28,adventure,Outdoor Recreation,49,70
+27,person,People,131,48
+14,people,People,131,48
+87,wall,Nonbuilding Structures,164,76
+84,wood,Nonbuilding Structures,164,76
+83,brick,Nonbuilding Structures,164,76
+76,color,Color,164,76
+60,red,Color,164,76
+54,floor,Rooms,164,76
+41,sign,Signs & Flags,21,98
+37,advertising,Advertising,21,98
+22,signage,Signs & Flags,21,98
+19,green,Color,21,98
+92,person,People,82,71
+60,hair,Beauty,82,71
+43,adolescence,People,82,71
+40,facial expression,People,82,71
+33,adult,People,82,71
+30,smile,People,82,71
+14,people,People,41,43
+11,photograph,Art,41,43
+23,urban area,"Cities, Towns, & Buildings",141,64
+22,architecture,"Cities, Towns, & Buildings",141,64
+20,transport,Transportation / Shipping,141,64
+18,wall,Nonbuilding Structures,141,64
+14,facade,"Cities, Towns, & Buildings",141,64
+91,people,Family & Relationships,52,85
+49,social group,Family & Relationships,52,85
+24,team,Family & Relationships,52,85
+20,community,Family & Relationships,52,85
+12,family,Family & Relationships,52,85
+98,flower,"Flowers, Plants, Trees",32,51
+94,blossom,"Flowers, Plants, Trees",32,51
+89,tree,"Flowers, Plants, Trees",32,51
+88,plant,"Flowers, Plants, Trees",32,51
+68,cherry blossom,"Flowers, Plants, Trees",32,51
+60,botany,"Flowers, Plants, Trees",32,51
+41,drink,Food,44,37
+28,wine bottle,Food,44,37
+21,brand,Retail,44,37
+18,wine,Food,44,37
+16,beverage,Food,44,37
+15,produce,Food,44,37
+98,art gallery,Art,60,48
+97,art,Art,60,48
+94,exhibition,Education,60,48
+93,art exhibition,Art,60,48
+93,modern art,Art,60,48
+90,tourist attraction,Travel,60,48
+63,mountain,Terrain,197,21
+62,sea,Terrain,197,21
+47,snow,Weather,197,21
+40,winter,Seasons,197,21
+26,wind,Weather,197,21
+25,wilderness,Terrain,197,21
+52,clothing,Clothing,94,0
+39,design,Color,94,0
+27,pattern,Clothing,94,0
+15,adult,People,94,0
+14,brown,Color,94,0
+62,social group,Family & Relationships,157,54
+53,musician,Music,157,54
+42,people,Family & Relationships,157,54
+41,musical theatre,Music,157,54
+23,singing,Music,157,54
+19,youth,Family & Relationships,157,54
+90,town,Real Estate,133,49
+63,coast,Body of Water,133,49
+50,tourism,Travel,133,49
+45,sea,Body of Water,133,49
+37,vacation,Travel,133,49
+33,cityscape,Real Estate,133,49
+98,light,Electricity & Lighting,75,57
+98,darkness,Time of Day,75,57
+93,lighting,Electricity & Lighting,75,57
+81,yellow,Color,75,57
+65,night,Time of Day,75,57
+56,light fixture,Electricity & Lighting,75,57
+60,vacation,Travel,144,50
+32,tourism,Travel,144,50
+21,construction,Construction,144,50
+17,structure,Nonbuilding Structures,144,50
+12,travel,Travel,144,50
+11,wall,Nonbuilding Structures,144,50
+20,sports,Sports,111,58
+18,stage,Live Events,111,58
+18,performing arts,Live Events,111,58
+11,performance art,Live Events,111,58
+32,image,Art,24,42
+21,painting,Art,24,42
+14,person,People,24,42
+13,art,Art,24,42
+51,musician,Live Events,72,33
+22,sports,Sports,72,33
+20,performance,Live Events,72,33
+17,social group,Family & Relationships,72,33
+16,festival,Holidays,72,33
+12,music,Live Events,72,33
+47,people,Family & Relationships,86,90
+30,social group,Family & Relationships,86,90
+27,team,Family & Relationships,86,90
+16,youth,Family & Relationships,86,90
+11,adolescence,Family & Relationships,86,90
+94,downtown,"Cities, Towns, & Buildings",29,50
+94,tower block,"Cities, Towns, & Buildings",29,50
+93,urban area,"Cities, Towns, & Buildings",29,50
+92,architecture,"Cities, Towns, & Buildings",29,50
+92,skyscraper,"Cities, Towns, & Buildings",29,50
+91,city,"Cities, Towns, & Buildings",29,50
+71,street,Roads and Bridges,5,64
+62,road,Roads and Bridges,5,64
+60,urban area,Roads and Bridges,5,64
+52,photograph,Color,5,64
+41,color,Color,5,64
+33,image,Color,5,64
+88,person,People,196,79
+80,endurance,Outdoor Recreation,196,79
+79,running,Outdoor Recreation,196,79
+79,athletics,Outdoor Recreation,196,79
+77,outdoor recreation,Outdoor Recreation,196,79
+71,recreation,Outdoor Recreation,196,79
+82,people,Family & Relationships,152,1
+62,person,Family & Relationships,152,1
+38,family,Family & Relationships,152,1
+33,day,Time of Day,152,1
+30,child,Family & Relationships,152,1
+24,adolescence,Family & Relationships,152,1
+91,skyline,"Cities, Towns, & Buildings",114,19
+87,city,"Cities, Towns, & Buildings",114,19
+77,downtown,"Cities, Towns, & Buildings",114,19
+77,human settlement,People,114,19
+76,cityscape,"Cities, Towns, & Buildings",114,19
+75,residential area,House,114,19
+61,person,People,185,28
+51,people,People,185,28
+32,photograph,Art,185,28
+17,man,People,185,28
+14,photo shoot,Art,185,28
+12,photography,Art,185,28
+35,shape,Art,195,100
+28,lighting,Electricity & Lighting,195,100
+26,man made object,Nonbuilding Structures,195,100
+17,table,Furniture,195,100
+17,restaurant,Restaurants,195,100
+11,drink,Beverages,195,100
+60,people,Family & Relationships,117,55
+58,play,Outdoor Recreation,117,55
+25,family,Family & Relationships,117,55
+24,community,Family & Relationships,117,55
+82,yellow,Color,34,41
+48,lego,Color,34,41
+45,toy,Color,34,41
+26,play,Outdoor Recreation,34,41
+98,night,Time of Day,66,44
+96,darkness,Time of Day,66,44
+88,house,House,66,44
+87,light,Electricity & Lighting,66,44
+81,lighting,Electricity & Lighting,66,44
+80,evening,Time of Day,66,44
+54,food,Food,115,15
+22,produce,Food,115,15
+16,breakfast,Food,115,15
+15,drink,Food,115,15
+59,color,Color,78,58
+59,screenshot,Color,78,58
+33,illustration,Color,78,58
+28,red,Color,78,58
+24,art,Color,78,58
+20,stage,Live Events,78,58
+75,beauty,Beauty,150,49
+74,phtograph,Art,150,49
+74,girl,People,150,49
+63,person,People,150,49
+62,portrait,Art,150,49
+61,lady,People,150,49
+89,sky,Sky,138,99
+86,road,Roads and Bridges,138,99
+81,morning,Time of Day,138,99
+73,sunset,Time of Day,138,99
+66,dusk,Time of Day,138,99
+62,evening,Time of Day,138,99
+78,wilderness,Terrain,167,22
+63,stream,Terrain,167,22
+58,water feature,Furniture,167,22
+54,waterfall,Terrain,167,22
+54,trail,Outdoor Recreation,167,22
+46,forest,Terrain,167,22
+60,clothing,Clothing,64,103
+33,fashion,Clothing,64,103
+17,person,People,64,103
+13,lady,People,64,103
+11,limb,People,64,103
+68,aviation,Aviation,186,84
+62,flight,Aviation,186,84
+54,vehicle,Aviation,186,84
+40,aircraft,Aviation,186,84
+29,airplane,Aviation,186,84
+29,ultralight aviation,Aviation,186,84
+69,community,Family & Relationships,23,53
+58,team,Family & Relationships,23,53
+50,youth,Family & Relationships,23,53
+40,class,Education,23,53
+38,people,Family & Relationships,23,53
+11,social group,Family & Relationships,23,53
+79,red,Color,11,83
+75,people,People,11,83
+71,person,People,11,83
+44,woman,People,11,83
+41,marriage,People,11,83
+25,female,People,11,83
+94,dish,Food,30,99
+91,food,Food,30,99
+86,breakfast,Food,30,99
+76,meal,Food,30,99
+69,produce,Food,30,99
+62,lunch,Food,30,99
+75,vehicle,Automotive,177,70
+44,boat,Outdoor Recreation,177,70
+27,boating,Outdoor Recreation,177,70
+23,watercraft,Outdoor Recreation,177,70
+18,ecosystem,Terrain,177,70
+16,motorboat,Outdoor Recreation,177,70
+97,color,Color,143,100
+91,food,Food,143,100
+73,dessert,Food,143,100
+49,confectionery,Food,143,100
+46,sweetness,Food,143,100
+46,yellow,Color,143,100
+92,people,Family & Relationships,127,42
+32,picnic,Outdoor Recreation,127,42
+15,community,Family & Relationships,127,42
+15,family,Family & Relationships,127,42
+11,social group,Family & Relationships,127,42
+11,ceremony,Family & Relationships,127,42
+83,drink,Food,118,60
+68,beverage,Food,118,60
+56,food,Food,118,60
+26,produce,Food,118,60
+15,cocktail,Food,118,60
+13,meal,Food,118,60
+72,color,Color,63,22
+43,art,Color,63,22
+13,food,Food,63,22
+87,photography,Color,47,39
+84,color,Color,47,39
+83,image,Color,47,39
+81,blue,Color,47,39
+79,photograph,Color,47,39
+71,portrait,Color,47,39
+68,glasses,Fashion Accessories,85,26
+47,people,People,85,26
+41,sunglasses,Fashion Accessories,85,26
+28,image,Art,85,26
+84,nose,People,156,55
+76,image,Art,156,55
+52,head,People,156,55
+45,hair,Beauty,156,55
+43,facial hair,Beauty,156,55
+41,face,People,156,55
+95,food,Food,178,97
+88,dish,Food,178,97
+71,meat,Food,178,97
+64,meal,Food,178,97
+62,breakfast,Food,178,97
+58,lunch,Food,178,97
+56,sports,Sports,199,0
+45,fitness,Fitness & Wellness,199,0
+23,physical exercise,Fitness & Wellness,199,0
+12,dance,Art,199,0
+40,morning,Seasons,46,18
+38,sunlight,Weather,46,18
+33,season,Seasons,46,18
+33,sunset,Seasons,46,18
+30,vacation,Travel,46,18
+24,beach,Body of Water,46,18
+93,presentation,Education,73,47
+69,photomontage,Art,73,47
+68,advertising,Advertising,73,47
+66,collage,Art,73,47
+57,brand,Retail,73,47
+36,art,Art,73,47
+36,store,Retail,119,89
+36,grocery store,Retail,119,89
+35,drink,Beverages,119,89
+21,bar,Retail,119,89
+17,beverage,Beverages,119,89
+13,supermarket,Retail,119,89
+95,food,Food,33,17
+92,dish,Food,33,17
+73,meal,Food,33,17
+69,breakfast,Food,33,17
+50,meat,Food,33,17
+49,produce,Food,33,17
+52,modern art,Design,136,78
+51,glass,Dishware,136,78
+48,interior design,House,136,78
+33,design,Design,136,78
+25,display case,House,136,78
+21,window,House,136,78
+97,beach,Terrain,104,31
+94,shore,Terrain,104,31
+91,sea,Terrain,104,31
+91,body of water,Terrain,104,31
+90,coast,Terrain,104,31
+85,sand,Terrain,104,31
+97,body of water,Body of Water,8,66
+96,beach,Body of Water,8,66
+96,horizon,Sky,8,66
+95,shore,Body of Water,8,66
+90,ocean,Body of Water,8,66
+89,sea,Body of Water,8,66
+81,performing arts,Live Events,87,87
+70,stage,Live Events,87,87
+67,performance art,Live Events,87,87
+63,musical theatre,Live Events,87,87
+63,entertainment,Live Events,87,87
+49,audience,Live Events,87,87
+96,sea,Body of Water,189,73
+91,coast,Body of Water,189,73
+90,vacation,Travel,189,73
+85,cape,Clothing,189,73
+80,ocean,Body of Water,189,73
+71,shore,Body of Water,189,73
+95,toddler,People,88,13
+94,child,People,88,13
+70,image,Art,88,13
+62,boy,People,88,13
+48,person,People,88,13
+33,infant,People,88,13
+12,art,Art,126,19
+77,pet,Pets,25,66
+60,dog,Pets,25,66
+15,person,People,25,66
+94,handwriting,"Letters, Numbers, Words",158,37
+94,text,"Letters, Numbers, Words",158,37
+68,document,"Letters, Numbers, Words",158,37
+62,writing,Education,158,37
+43,font,"Letters, Numbers, Words",158,37
+16,shape,Art,158,37
+91,meal,Food,134,26
+82,dinner,Food,134,26
+73,supper,Food,134,26
+72,people,People,134,26
+71,lunch,Food,134,26
+69,dish,Food,134,26
+69,people,People,151,88
+51,person,People,151,88
+81,mountain,Terrain,57,69
+73,walking,People,57,69
+71,adventure,Outdoor Recreation,57,69
+61,sea,Terrain,57,69
+61,vacation,Travel,57,69
+58,rock,"Minerals, Rocks, & Metals",57,69
+48,tourism,Travel,191,42
+38,blue,Color,191,42
+17,vacation,Travel,191,42
+16,world,Outer Space,191,42
+15,landmark,Nonbuilding Structures,191,42
+14,tours,Travel,191,42
+94,tree,"Flowers, Plants, Trees",113,49
+92,botany,"Flowers, Plants, Trees",113,49
+82,garden,Landscaping,113,49
+81,flower,"Flowers, Plants, Trees",113,49
+75,arecales,"Flowers, Plants, Trees",113,49
+69,vacation,Travel,113,49
+92,home,House,169,93
+92,house,House,169,93
+88,facade,"Cities, Towns, & Buildings",169,93
+85,window,House,169,93
+82,property,"Cities, Towns, & Buildings",169,93
+76,wall,Nonbuilding Structures,169,93
+96,food,Food,148,15
+85,dessert,Food,148,15
+25,baking,Food,148,15
+20,baked goods,Food,148,15
+19,icing,Food,148,15
+19,cookies,Food,148,15
+88,font,Signs & Flags,98,19
+39,text,Signs & Flags,98,19
+33,number,Signs & Flags,98,19
+17,signage,Signs & Flags,98,19
+14,screenshot,Art,98,19
+11,illustration,Art,98,19
+85,drawing,Design,122,67
+78,pattern,Clothing,122,67
+58,sketch,Design,122,67
+42,design,Design,122,67
+38,art,Design,122,67
+37,monochrome photography,Design,122,67
+68,hand,People,35,74
+61,fashion accessory,Fashion Accessories,35,74
+39,bracelet,Fashion Accessories,35,74
+33,jewellery,Fashion Accessories,35,74
+31,arm,People,35,74
+24,finger,People,35,74
+93,graduation,Education,26,5
+79,academic dress,Fashion Accessories,26,5
+54,clothing,Fashion Accessories,26,5
+47,umbrella,Fashion Accessories,26,5
+24,mortarboard,Construction,26,5
+88,sports,Sports,105,34
+81,ball game,Sports,105,34
+70,basketball player,Sports,105,34
+69,basketball,Sports,105,34
+67,team sport,Sports,105,34
+21,tournament,Live Events,105,34
+60,people,People,51,93
+52,person,People,51,93
+99,guitar,Music,42,96
+97,musical instrument,Music,42,96
+97,bass guitar,Music,42,96
+96,string instrument,Music,42,96
+95,plucked string instruments,Music,42,96
+89,acoustic guitar,Music,42,96
+72,monochrome photography,Art,145,5
+58,cartoon,TV,145,5
+47,photograph,Art,145,5
+40,image,Art,145,5
+39,poster,Art,145,5
+34,monochrome,Art,145,5
+86,sports,Sports,179,29
+82,air sports,Sports,179,29
+81,extreme sport,Sports,179,29
+76,mountain range,Terrain,179,29
+64,windsports,Sports,179,29
+62,mountain,Terrain,179,29
+34,endurance sports,Sports,54,70
+15,clothing,Clothing,54,70
+99,pet,Wild Animals,188,10
+90,animal,Wild Animals,188,10
+89,mammal,Wild Animals,188,10
+59,dog,Wild Animals,188,10
+57,puppy,Wild Animals,188,10
+83,social group,Family & Relationships,162,109
+66,musician,Live Events,162,109
+64,team,Family & Relationships,162,109
+57,people,Family & Relationships,162,109
+43,musical theatre,Live Events,162,109
+26,audience,Live Events,162,109
+88,art,Color,9,12
+77,mural,Color,9,12
+51,urban area,Real Estate,9,12
+39,graffiti,Color,9,12
+25,street art,Color,9,12
+24,color,Color,9,12
+91,ski,Sports,68,42
+91,skiing,Sports,68,42
+90,ski equipment,Sports,68,42
+86,winter sport,Sports,68,42
+83,alpine skiing,Sports,68,42
+83,sports,Sports,68,42
+87,dish,Food,90,78
+80,food,Food,90,78
+68,meal,Food,90,78
+64,breakfast,Food,90,78
+55,meat,Food,90,78
+31,asian food,Food,90,78
+49,singing,Live Events,123,55
+38,performance,Live Events,123,55
+32,musician,Live Events,123,55
+30,guitarist,Live Events,123,55
+27,performing arts,Live Events,123,55
+26,singer,Live Events,123,55
+58,urban area,"Cities, Towns, & Buildings",37,94
+56,landmark,Nonbuilding Structures,37,94
+50,facade,"Cities, Towns, & Buildings",37,94
+47,downtown,"Cities, Towns, & Buildings",37,94
+41,blue,Color,37,94
+40,skyscraper,"Cities, Towns, & Buildings",37,94
+97,photography,Art,198,81
+94,selfie,People,198,81
+91,image,Art,198,81
+75,people,People,198,81
+47,photograph,Art,198,81
+45,portrait,Art,198,81
+98,eyebrow,People,173,32
+96,face,People,173,32
+96,eye,People,173,32
+90,nose,People,173,32
+76,eyelash,People,173,32
+72,human body,People,173,32
+34,people,Family & Relationships,109,28
+34,album cover,Music,109,28
+33,photograph,Art,109,28
+32,poster,Art,109,28
+24,social group,Family & Relationships,109,28
+22,youth,Family & Relationships,109,28
+60,nightclub,Live Events,170,68
+43,club,Live Events,170,68
+29,disco,Live Events,170,68
+13,music,Live Events,170,68
+27,image,Art,95,21
+23,stage,Live Events,95,21
+18,display device,Consumer Electronics,95,21
+95,sea,Body of Water,147,27
+92,shore,Body of Water,147,27
+92,ocean,Body of Water,147,27
+91,coast,Body of Water,147,27
+84,beach,Body of Water,147,27
+84,rock,"Minerals, Rocks, & Metals",147,27
+97,people,Family & Relationships,15,83
+72,person,Family & Relationships,15,83
+18,social group,Family & Relationships,15,83
+17,audience,Live Events,15,83
+12,musician,Live Events,15,83
+86,drink,Beverages,61,82
+79,beer,Beverages,61,82
+68,beverage,Beverages,61,82
+67,man made object,Nonbuilding Structures,61,82
+58,glass,Beverages,61,82
+44,ale,Beverages,61,82
+98,snow,Weather,20,100
+96,winter,Seasons,20,100
+94,weather,Weather,20,100
+90,branch,Weather,20,100
+89,freezing,Weather,20,100
+86,tree,Weather,20,100
+96,color,Color,55,64
+68,yellow,Color,55,64
+51,fashion accessory,Fashion Accessories,55,64
+47,red,Color,55,64
+39,sunglasses,Fashion Accessories,55,64
+38,glasses,Fashion Accessories,55,64
